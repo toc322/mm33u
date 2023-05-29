@@ -1,58 +1,60 @@
 #EXTM3U
-#EXTINF:0,5-1 SBS
+#EXTINF:-1 tvg-id="164" tvg-logo="https://i.imgur.com/K2ztoDT.png" tvh-chnum="5" tvh-tags="SBS",SBS
 http://58.142.60.62:9981/stream/channelid/260418342?profile=pass
-#EXTINF:0,7-1 KBS2
+#EXTINF:-1 tvg-id="111" tvg-logo="https://i.imgur.com/XgibZbD.png" tvh-chnum="7" tvh-tags="KBS2",KBS2
 http://58.142.60.62:9981/stream/channelid/2025687795?profile=pass
-#EXTINF:0,9-1 KBS1
+#EXTINF:-1 tvg-id="110" tvg-logo="https://i.imgur.com/e31o5gw.png" tvh-chnum="9" tvh-tags="KBS1",KBS1
 http://58.142.60.62:9981/stream/channelid/500228236?profile=pass
-#EXTINF:0,11-1 MBC
+#EXTINF:-1 tvg-id="122" tvg-logo="https://i.imgur.com/duig32i.png" tvh-chnum="11" tvh-tags="MBC",MBC
 http://58.142.60.62:9981/stream/channelid/793162132?profile=pass
-#EXTINF:0,13-1 EBS
+#EXTINF:-1 tvg-id="60" tvg-logo="https://i.imgur.com/WViFruZ.png" tvh-chnum="13" tvh-tags="EBS",EBS
 http://58.142.60.62:9981/stream/channelid/1384850680?profile=pass
-#EXTINF:0,20-1 tvN
+#EXTINF:-1 tvg-id="207" tvg-logo="https://i.imgur.com/OJ9A8fZ.png" tvh-chnum="17" tvh-tags="tvN",tvN
 http://58.142.60.62:9981/stream/channelid/1041875196?profile=pass
-#EXTINF:0,15-1 JTBC
+#EXTINF:-1 tvg-id="97" tvg-logo="https://i.imgur.com/YOYosLG.png" tvh-chnum="15" tvh-tags="JTBC",JTBC
 http://58.142.60.62:9981/stream/channelid/1883166422?profile=pass
-#EXTINF:0,17-1 Chnnel A
+#EXTINF:-1 tvg-id="281" tvg-logo="https://i.imgur.com/xti35f5.png" tvh-chnum="18" tvh-tags="Chnnel A", Channel A
 http://58.142.60.62:9981/stream/channelid/612543518?profile=pass
-#EXTINF:0,18-1 MBN
+#EXTINF:-1 tvg-id="129" tvg-logo="https://i.imgur.com/p0mvIJN.png" tvh-chnum="16" tvh-tags="MBN",MBN
 http://58.142.60.62:9981/stream/channelid/1007022958?profile=pass
-#EXTINF:0,19-1 TV Chosun
+#EXTINF:-1 tvg-id="208" tvg-logo="https://i.imgur.com/ShJ5joR.png" tvh-chnum="19" tvh-tags="TV Choson",TV Choson
 http://58.142.60.62:9981/stream/channelid/882708071?profile=pass
-#EXTINF:0,23-1 연합뉴스
+#EXTINF:-1 tvg-id="268" tvg-logo="https://i.imgur.com/KlTCP8V.png" tvh-chnum="23" tvh-tags="연합뉴스TV",연합뉴스TV
 http://58.142.60.62:9981/stream/channelid/252598147?profile=pass
-#EXTINF:0,24-1 YTN
+#EXTINF:-1 tvg-id="218" tvg-logo="https://i.imgur.com/ByeeX5e.png" tvh-chnum="24" tvh-tags="YTN",YTN
 http://58.142.60.62:9981/stream/channelid/1136165985?profile=pass
-#EXTINF:0,26-1 OCN
+#EXTINF:-1 tvg-id="151" tvg-logo="https://i.imgur.com/IXh6dwo.png" tvh-chnum="54" tvh-tags="OCN",OCN
 http://58.142.60.62:9981/stream/channelid/1732991760?profile=pass
-#EXTINF:0,31-1 OCN movie
+#EXTINF:-1 tvg-id="283" tvg-logo="https://i.imgur.com/Edi6Fl0.png" tvh-chnum="53" tvh-tags="OCN Movies",OCN Movies
 http://58.142.60.62:9981/stream/channelid/1858310606?profile=pass
-#EXTINF:0,45-1 AXN
+#EXTINF:-1 tvg-id="10" tvg-logo="https://i.imgur.com/QrAXBEm.png" tvh-chnum="102" tvh-tags="AXN",AXN
 http://58.142.60.62:9981/stream/channelid/1554285063?profile=pass
-#EXTINF:0,29-1 SCREEN
+#EXTINF:-1 tvg-id="171" tvg-logo="https://i.imgur.com/lTK9VD4.png" tvh-chnum="56" tvh-tags="Screen",Screen
 http://58.142.60.62:9981/stream/channelid/1332779936?profile=pass
-#EXTINF:0,46-2 mplex
+#EXTINF:-1 tvg-id="134" tvg-logo="https://i.imgur.com/dOOBYJm.png" tvh-chnum="57" tvh-tags="mplex",Mplex
 http://58.142.60.62:9981/stream/channelid/1291756481?profile=pass
 #EXTINF:0,55-2 인디필름
 http://58.142.60.62:9981/stream/channelid/2117810935?profile=pass
-#EXTINF:0,47-1 FOX
+#EXTINF:-1 tvg-id="74" tvg-logo="https://i.imgur.com/8usDWOC.png" tvh-chnum="101" tvh-tags="FOX",FOX
 http://58.142.60.62:9981/stream/channelid/326641970?profile=pass
-#EXTINF:0,51-1 ANIMAX
+#EXTINF:-1 tvg-id="4" tvg-logo="https://i.imgur.com/2Gfqhuj.png" tvh-chnum="173" tvh-tags="ANIMAX",Animax
 http://58.142.60.62:9981/stream/channelid/293052838?profile=pass
-#EXTINF:0,51-2 ANIBOX
+#EXTINF:-1 tvg-id="2" tvg-logo="https://i.imgur.com/ipM9AXe.png" tvh-chnum="179" tvh-tags="ANIBOX",ANIBOX
 http://58.142.60.62:9981/stream/channelid/457354971?profile=pass
-#EXTINF:0,71-1 Tooniverse
+#EXTINF:-1 tvg-id="202" tvg-logo="https://i.imgur.com/VUqSOjx.png" tvh-chnum="170" tvh-tags="Tooniverse",Tooniverse
 http://58.142.60.62:9981/stream/channelid/1057506291?profile=pass
-#EXTINF:0,53-1 KBS N Sports
+#EXTINF:-1 tvg-id="107" tvg-logo="https://i.imgur.com/xspD7UE.png" tvh-chnum="121" tvh-tags="KBS N Sports",KBS N Sports
 http://58.142.60.62:9981/stream/channelid/750985046?profile=pass
-#EXTINF:0,54-1 MBC SPORTS+
+#EXTINF:-1 tvg-id="126" tvg-logo="https://i.imgur.com/Su21uj3.png" tvh-chnum="123" tvh-tags="MBC SPORTS+",MBC Sports+
 http://58.142.60.62:9981/stream/channelid/509330915?profile=pass
-#EXTINF:0,54-2 JTBC Golf
+#EXTINF:-1 tvg-id="98" tvg-logo="https://i.imgur.com/Bnw7O5U.png" tvh-chnum="132" tvh-tags="JTBC Golf",JTBC GOL
 http://58.142.60.62:9981/stream/channelid/281207472?profile=pass
-#EXTINF:0,55-1 SBS Sports
+#EXTINF:-1 tvg-id="169" tvg-logo="https://i.imgur.com/j1vHAu6.png" tvh-chnum="122" tvh-tags="SBS Sports",SBS Sports
 http://58.142.60.62:9981/stream/channelid/387572407?profile=pass
-#EXTINF:0,56-1 SBS GOLF
+#EXTINF:-1 tvg-id="167" tvg-logo="https://i.imgur.com/HdS0GNV.png" tvh-chnum="131" tvh-tags="SBS GOLF",SBS GOLF
 http://58.142.60.62:9981/stream/channelid/1627669542?profile=pass
+#EXTINF:-1 tvg-id="187" tvg-logo="https://i.imgur.com/oa1VbRv.png" tvh-chnum="115" tvh-tags="스크린골프존",SCREEN GOLFZON
+http://1.214.67.81/vod/57801.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIF
 #EXTINF:0,41-1 tvN Sports
 http://58.142.60.62:9981/stream/channelid/1615045428?profile=pass
 #EXTINF:0,33-1 Mnet
@@ -65,17 +67,17 @@ http://58.142.60.62:9981/stream/channelid/814405847?profile=pass
 http://58.142.60.62:9981/stream/channelid/1791361568?profile=pass
 #EXTINF:0,3-2 KBS JOY
 http://58.142.60.62:9981/stream/channelid/1617654878?profile=pass
-#EXTINF:0,4-1 MBC Every1
+#EXTINF:-1 tvg-id="123" tvg-logo="https://i.imgur.com/oOnpFes.png" tvh-chnum="28" tvh-tags="MBC Every1",MBC Every1
 http://58.142.60.62:9981/stream/channelid/813306955?profile=pass
-#EXTINF:0,32-1 MBC Dramanet
+#EXTINF:-1 tvg-id="128" tvg-logo="https://i.imgur.com/VBMFcZ3.png" tvh-chnum="32" tvh-tags="MBC Dramanet",MBC Dramanet
 http://58.142.60.62:9981/stream/channelid/1480601091?profile=pass
 #EXTINF:0,35-1 ENA drama
 http://58.142.60.62:9981/stream/channelid/1532150940?profile=pass
 #EXTINF:0,36-1 Channel E
 http://58.142.60.62:9981/stream/channelid/1453311217?profile=pass
-#EXTINF:0,37-1 MBC MUSIC
+#EXTINF:-1 tvg-id="124" tvg-logo="https://i.imgur.com/6g56RDx.png" tvh-chnum="231" tvh-tags="MBC MUSIC",MBC Music
 http://58.142.60.62:9981/stream/channelid/1920571670?profile=pass
-#EXTINF:0,41-1 ENA
+#EXTINF:-1 tvg-id="173" tvg-logo="https://i.imgur.com/oY5FhiO.png" tvh-chnum="99" tvh-tags="ENA",ENA
 http://58.142.60.62:9981/stream/channelid/590613772?profile=pass
 #EXTINF:0,30-1 JTBC2
 http://58.142.60.62:9981/stream/channelid/107246611?profile=pass
