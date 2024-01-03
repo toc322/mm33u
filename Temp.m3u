@@ -1,3 +1,205 @@
 #EXTM3U
-#EXTINF:-1,1
-http://jm54.modhospital.kr:9981/playlist/channels
+#EXTINF:-1,AXN
+http://jm54.modhospital.kr:9981/stream/channelid/65?ticket=BE04134BD22577D5F93E63D7BE93083E78633C9D
+#EXTINF:-1,BTN불교TV
+http://jm54.modhospital.kr:9981/stream/channelid/84?ticket=780D935812F1FF47AB04C3BFA45E3245B034572E
+#EXTINF:-1,CBS
+http://jm54.modhospital.kr:9981/stream/channelid/83?ticket=ED69DCF1EECB13F1C944297F47526DAE2CCE526C
+#EXTINF:-1,CJ오쇼핑
+http://jm54.modhospital.kr:9981/stream/channelid/25?ticket=F849231E54FC57F52DE86407FBE943B74493D1CD
+#EXTINF:-1,CMC TV
+http://jm54.modhospital.kr:9981/stream/channelid/19?ticket=3DD58C4DD54267F2E62542C4AAFFC2DE52B65A09
+#EXTINF:-1,CNTV
+http://jm54.modhospital.kr:9981/stream/channelid/16?ticket=45A3EE89849A22513BD9F558BFA80FF60D9DBCC1
+#EXTINF:-1,CPBC
+http://jm54.modhospital.kr:9981/stream/channelid/85?ticket=79F1FB681852997157F0D5F04FDC1F9DF3E5580B
+#EXTINF:-1,EBS Digital
+http://jm54.modhospital.kr:9981/stream/channelid/101?ticket=D1D9F3B5C687B434D8739FC84170EE298DFF3509
+#EXTINF:-1,EBS Digital 
+http://jm54.modhospital.kr:9981/stream/channelid/102?ticket=171BA11066B90429E0FD5EEB938FFDA23D07C368
+#EXTINF:-1,EBS e
+http://jm54.modhospital.kr:9981/stream/channelid/7?ticket=BCCFDCA22A935CFCE56B73A4000F6170EC7C1AA3
+#EXTINF:-1,EBS러닝중1
+http://jm54.modhospital.kr:9981/stream/channelid/5?ticket=33C658451C8CCD0C1CA0F684D88773A3AECAA5D1
+#EXTINF:-1,EBS러닝중2
+http://jm54.modhospital.kr:9981/stream/channelid/6?ticket=51683A815348DEB52E7024913D5DB8AF5C9DDA69
+#EXTINF:-1,EBS러닝초3
+http://jm54.modhospital.kr:9981/stream/channelid/1?ticket=B4D2779DCEEF18A32E93FE2AB75717ADC9707925
+#EXTINF:-1,EBS러닝초4
+http://jm54.modhospital.kr:9981/stream/channelid/2?ticket=ADF1342C26E679DD122BA8AF431A3FF76F212D0F
+#EXTINF:-1,EBS러닝초5
+http://jm54.modhospital.kr:9981/stream/channelid/3?ticket=2C08B4DD684895870475B783E8AF41DBB460E128
+#EXTINF:-1,EBS러닝초6
+http://jm54.modhospital.kr:9981/stream/channelid/4?ticket=A445EE994C3993BD1648D1B50F7DC57978423C94
+#EXTINF:-1,EBS플러스1
+http://jm54.modhospital.kr:9981/stream/channelid/50?ticket=4D75AE8E7577D35E30BBDEA39B067E41B46EAFAA
+#EXTINF:-1,EBS플러스2
+http://jm54.modhospital.kr:9981/stream/channelid/73?ticket=70FA6565F28BBD3D4E6293FC89A3BCA53DC4A4AD
+#EXTINF:-1,E채널
+http://jm54.modhospital.kr:9981/stream/channelid/21?ticket=390B83222D578C273597E67FC70D691E2A75AF67
+#EXTINF:-1,Fox
+http://jm54.modhospital.kr:9981/stream/channelid/54?ticket=548452CD3F649FC109B8392534CA50FFCA609051
+#EXTINF:-1,Fox FX
+http://jm54.modhospital.kr:9981/stream/channelid/92?ticket=264C239BB8F03B1D3DDF99A60757652F209CFBCF
+#EXTINF:-1,Foxlife
+http://jm54.modhospital.kr:9981/stream/channelid/96?ticket=56D31F745AC572CF02E868ECE950568A162B10A0
+#EXTINF:-1,Fun TV
+http://jm54.modhospital.kr:9981/stream/channelid/14?ticket=D952C88EC31818CF5AA86B085A8AB5D53D575F5C
+#EXTINF:-1,GS SHOP
+http://jm54.modhospital.kr:9981/stream/channelid/24?ticket=5127762138FCB7BEB4DAC29B17D23DE701B745EE
+#EXTINF:-1,GTV
+http://jm54.modhospital.kr:9981/stream/channelid/71?ticket=AC5ECF506B809A467090529DFC3A81CCCD657A23
+#EXTINF:-1,I-net
+http://jm54.modhospital.kr:9981/stream/channelid/59?ticket=250FAB3E14BB028706BFD9F14765B1CD4D8B4D4E
+#EXTINF:-1,JTBC
+http://jm54.modhospital.kr:9981/stream/channelid/33?ticket=ABFFCF910EAFBF04353A4BDD37B8C58B112B9869
+#EXTINF:-1,JTBC2
+http://jm54.modhospital.kr:9981/stream/channelid/61?ticket=DB4B30BA1034FA9CC1635E8390FD44422595D2DF
+#EXTINF:-1,K star
+http://jm54.modhospital.kr:9981/stream/channelid/49?ticket=ACD62D5772346F5B540EE2A7AF35009813528A6C
+#EXTINF:-1,KBS Joy
+http://jm54.modhospital.kr:9981/stream/channelid/93?ticket=F4A20CC5AD2CBF6776DBD3C6BF51E24E50FBEA95
+#EXTINF:-1,KBS 드라마
+http://jm54.modhospital.kr:9981/stream/channelid/80?ticket=1BAE4399BD08C5307D1A6FC3F03B2C288E19FAD9
+#EXTINF:-1,KBS 스포츠
+http://jm54.modhospital.kr:9981/stream/channelid/82?ticket=5C85DC048385D7F8BA444C3DB2DF990B86C80224
+#EXTINF:-1,KBS1
+http://jm54.modhospital.kr:9981/stream/channelid/98?ticket=8C8C407EE60D624E4BC5D5AF38650E1BA9EB72B0
+#EXTINF:-1,KBS2
+http://jm54.modhospital.kr:9981/stream/channelid/100?ticket=06E6836BD26F47DE88BC66489B47B6A543B597CB
+#EXTINF:-1,KTV
+http://jm54.modhospital.kr:9981/stream/channelid/38?ticket=ACCCB814A0710D2808D8058DE978E83777611095
+#EXTINF:-1,K쇼핑
+http://jm54.modhospital.kr:9981/stream/channelid/43?ticket=D8ECAE3C7A47C4B764F271CA02B4E42B978BC35A
+#EXTINF:-1,MBC
+http://jm54.modhospital.kr:9981/stream/channelid/97?ticket=40B257E4BA3C3B3816E9E3EAA84E219E22B7F63C
+#EXTINF:-1,MBC M
+http://jm54.modhospital.kr:9981/stream/channelid/88?ticket=210714BA92927D5F36715AD3EAA1D02D15D11BD8
+#EXTINF:-1,MBC ON
+http://jm54.modhospital.kr:9981/stream/channelid/18?ticket=86F1559E767F6415CD5825C26126CB65E795C84A
+#EXTINF:-1,MBC 드라마
+http://jm54.modhospital.kr:9981/stream/channelid/79?ticket=17904211FCB7F20E528B4E4F09D7D04ACCF6E019
+#EXTINF:-1,MBC 스포츠
+http://jm54.modhospital.kr:9981/stream/channelid/90?ticket=A66B0E3553A3DEB2BCB63183BA0A8D8008553CB9
+#EXTINF:-1,MBC에브리원
+http://jm54.modhospital.kr:9981/stream/channelid/69?ticket=ACA90E53135064DBC1470A5C2A8681A99D387524
+#EXTINF:-1,MBN
+http://jm54.modhospital.kr:9981/stream/channelid/31?ticket=C709CF03E858ED66B24C24DA00937D667330188C
+#EXTINF:-1,Mnet
+http://jm54.modhospital.kr:9981/stream/channelid/62?ticket=C4D1D2C15103624576FAA82F671D89058F046B12
+#EXTINF:-1,Mplex
+http://jm54.modhospital.kr:9981/stream/channelid/11?ticket=C5284E2130945391BEF40ED852522B0E9CA048FB
+#EXTINF:-1,NQQ
+http://jm54.modhospital.kr:9981/stream/channelid/8?ticket=4659097A7172DFE7FF46CAEBA7345F6C168A12DF
+#EXTINF:-1,NSShop+
+http://jm54.modhospital.kr:9981/stream/channelid/86?ticket=D4623395DE2F9375E8AE7A7A85DBCAF3D48A911E
+#EXTINF:-1,NS홈쇼핑
+http://jm54.modhospital.kr:9981/stream/channelid/27?ticket=14AC8E03124349B174892CA47E1BC47AFF24D747
+#EXTINF:-1,O tvN
+http://jm54.modhospital.kr:9981/stream/channelid/56?ticket=9698CE060F697C8EBFAD8F11E8D87F88680D6C5C
+#EXTINF:-1,OBS
+http://jm54.modhospital.kr:9981/stream/channelid/103?ticket=89FC52A797FB5CE022A261B2488EDE9AA9C46E6A
+#EXTINF:-1,OCN
+http://jm54.modhospital.kr:9981/stream/channelid/45?ticket=8D69B77FFFE293D845A5D4739D23D1DB8E9C24DC
+#EXTINF:-1,OCN 무비
+http://jm54.modhospital.kr:9981/stream/channelid/47?ticket=A3CA90CB22D619530DA54E3B1C2CC00FABE99BEC
+#EXTINF:-1,OGN
+http://jm54.modhospital.kr:9981/stream/channelid/67?ticket=77AC8D5D5594C569F1478670E0E0A7383C67F5DA
+#EXTINF:-1,ONT
+http://jm54.modhospital.kr:9981/stream/channelid/72?ticket=094EED833E5B016076DD4E10E01B1B917322D628
+#EXTINF:-1,OUN
+http://jm54.modhospital.kr:9981/stream/channelid/39?ticket=0141DDFE7EF05BD92B830F2A1E2C5DD74208B8D7
+#EXTINF:-1,SBS 골프
+http://jm54.modhospital.kr:9981/stream/channelid/87?ticket=3B61EFD1840BB388DACECAE0EA1F8EDDF9F536E5
+#EXTINF:-1,SBS 드라마
+http://jm54.modhospital.kr:9981/stream/channelid/81?ticket=679E09B0486C29131ECB53D7D6BCEC1880CD0953
+#EXTINF:-1,SBS 스포츠
+http://jm54.modhospital.kr:9981/stream/channelid/89?ticket=76E66B82F8E9DF566ECBCBA7F48D42A57EA3D1E8
+#EXTINF:-1,SBSFunE
+http://jm54.modhospital.kr:9981/stream/channelid/70?ticket=5A49A7E948481404B39011D3C6E0087D54B8593A
+#EXTINF:-1,SKY
+http://jm54.modhospital.kr:9981/stream/channelid/77?ticket=9F362A0F3956EE1949BAA6C42CCDE6B9BF219F88
+#EXTINF:-1,SK스토아
+http://jm54.modhospital.kr:9981/stream/channelid/30?ticket=1030A499A1CDD4659B00A33776C0268271CFF53A
+#EXTINF:-1,TRENDY
+http://jm54.modhospital.kr:9981/stream/channelid/68?ticket=727AB8B4C150B4A0D5594144F2A44BE4358B54C1
+#EXTINF:-1,TV조선
+http://jm54.modhospital.kr:9981/stream/channelid/32?ticket=7D0D9F5851524E0823FFEFD1FFB66A2DB48BECCA
+#EXTINF:-1,W쇼핑
+http://jm54.modhospital.kr:9981/stream/channelid/58?ticket=9CAD0DA1E350C2C40413722E95075CF73B4BE460
+#EXTINF:-1,YTN
+http://jm54.modhospital.kr:9981/stream/channelid/41?ticket=C1FFC553B740C848DC77D70606B97E6C9AC67E42
+#EXTINF:-1,tvN
+http://jm54.modhospital.kr:9981/stream/channelid/22?ticket=1E760574EFD2BD2C66D79F80E67DF78BC5D3AFCB
+#EXTINF:-1,공영쇼핑
+http://jm54.modhospital.kr:9981/stream/channelid/34?ticket=BF17D2A9CFE8ECBACC5008FB5630CF045DD37D7B
+#EXTINF:-1,국회TV
+http://jm54.modhospital.kr:9981/stream/channelid/37?ticket=278A3A29563BAA833AAB950303584F43285630DA
+#EXTINF:-1,다큐원
+http://jm54.modhospital.kr:9981/stream/channelid/12?ticket=D645AE88A23F1B3D746C2F089E0C17AD6C5C9959
+#EXTINF:-1,드라마H
+http://jm54.modhospital.kr:9981/stream/channelid/44?ticket=DA837FF0328826AD870EEEABEEC22CB177FB023C
+#EXTINF:-1,드라마큐브
+http://jm54.modhospital.kr:9981/stream/channelid/35?ticket=013ABC6F302376641AE91FA537395746847DB1B3
+#EXTINF:-1,드라맥스
+http://jm54.modhospital.kr:9981/stream/channelid/66?ticket=B250BC090D0768FEFBE2A289DA715A960D75526B
+#EXTINF:-1,롯데ONETV
+http://jm54.modhospital.kr:9981/stream/channelid/15?ticket=9CFD424CD03764FE0FE0E11B243AC57EB7E37B4D
+#EXTINF:-1,롯데홈쇼핑
+http://jm54.modhospital.kr:9981/stream/channelid/26?ticket=713F30B2F2A4A9A4290E1F25287FD2C7A196EE4E
+#EXTINF:-1,복지TV
+http://jm54.modhospital.kr:9981/stream/channelid/64?ticket=F460A4F496499483EB886E958C49CE9C9067DCFC
+#EXTINF:-1,뷰
+http://jm54.modhospital.kr:9981/stream/channelid/42?ticket=5081C9C0813C15886E24BFD3E87A4CB2B2218770
+#EXTINF:-1,상생방송
+http://jm54.modhospital.kr:9981/stream/channelid/10?ticket=C1E5A7299C680180911949CA9C40330CBB1E28AE
+#EXTINF:-1,쇼핑엔티
+http://jm54.modhospital.kr:9981/stream/channelid/36?ticket=F4572A17D38EEE433B336CF73EACEEDA2A12E8D0
+#EXTINF:-1,스마일TV+
+http://jm54.modhospital.kr:9981/stream/channelid/55?ticket=66F949F641ED6F71266714523F0AAC4B917C9447
+#EXTINF:-1,스크린
+http://jm54.modhospital.kr:9981/stream/channelid/46?ticket=8E5D1BB27D40DF094B2BBD629CB8A3A2E0F4D0E3
+#EXTINF:-1,신세계쇼핑
+http://jm54.modhospital.kr:9981/stream/channelid/17?ticket=0E07ABE2A6C6FBE3286A582F1B361B2E3749B890
+#EXTINF:-1,씨네프
+http://jm54.modhospital.kr:9981/stream/channelid/48?ticket=AD8CF0D0F65786C5228B68BC9570E008DFA0B674
+#EXTINF:-1,아리랑TV
+http://jm54.modhospital.kr:9981/stream/channelid/95?ticket=5BB49C94EA691AE34CD89D1F6034874F835BD092
+#EXTINF:-1,애니맥스
+http://jm54.modhospital.kr:9981/stream/channelid/52?ticket=20E11758D984438D799C199251627ADC4BA20158
+#EXTINF:-1,엣지TV
+http://jm54.modhospital.kr:9981/stream/channelid/53?ticket=4FE8E3D2A51CD683392A17CE9AC8C4CBDC3D4259
+#EXTINF:-1,연합뉴스TV
+http://jm54.modhospital.kr:9981/stream/channelid/40?ticket=1B28CF128DFB209DBA6584018E2DA1454E143D31
+#EXTINF:-1,올리브
+http://jm54.modhospital.kr:9981/stream/channelid/76?ticket=405BE797BEE2F32E89C771DC625F293BFDFDC271
+#EXTINF:-1,육아방송
+http://jm54.modhospital.kr:9981/stream/channelid/91?ticket=438D5A42DE0C4E2276D1B6084BDB33397C926192
+#EXTINF:-1,이벤트TV
+http://jm54.modhospital.kr:9981/stream/channelid/74?ticket=DE0530BB691952EBEEC945403FC6447EF1234F6E
+#EXTINF:-1,인디필름
+http://jm54.modhospital.kr:9981/stream/channelid/75?ticket=111D8DF4FB0CE5D4D5B4D643D032F50EBED56A64
+#EXTINF:-1,지역방송
+http://jm54.modhospital.kr:9981/stream/channelid/20?ticket=38B255BAD3DCB794734372A9B390C004A5348DB2
+#EXTINF:-1,채널 EM
+http://jm54.modhospital.kr:9981/stream/channelid/9?ticket=E34962CC7C374955C7F29FAAF9ADCB472ED3249B
+#EXTINF:-1,채널A
+http://jm54.modhospital.kr:9981/stream/channelid/29?ticket=376A3E51129FB3CBE7FA2E4C412FF45C8A77351A
+#EXTINF:-1,채널차이나
+http://jm54.modhospital.kr:9981/stream/channelid/13?ticket=2FF197673BDA1D45B8832211E0276A08D5EE606F
+#EXTINF:-1,챔프
+http://jm54.modhospital.kr:9981/stream/channelid/63?ticket=0D3D9E3E5AD690DBB8F19FF242DF20B18C3BF87B
+#EXTINF:-1,코미디TV
+http://jm54.modhospital.kr:9981/stream/channelid/51?ticket=0D6B0B2A483A7FA9CF1E25E48C3F372DC6BEC35F
+#EXTINF:-1,티브이조선2
+http://jm54.modhospital.kr:9981/stream/channelid/94?ticket=6B128158F2CAA9D369CE8D4C5B3DACA199D022FC
+#EXTINF:-1,패션앤
+http://jm54.modhospital.kr:9981/stream/channelid/57?ticket=B48F1918524B67E5AF5E834A3C076D445FB230CB
+#EXTINF:-1,한국경제TV
+http://jm54.modhospital.kr:9981/stream/channelid/78?ticket=C75DFAA05F37755F1F23C820E2F6AC2F4A46CF1E
+#EXTINF:-1,현대홈쇼핑
+http://jm54.modhospital.kr:9981/stream/channelid/23?ticket=C525741D89AEEBE99896DBFE049DA726BA131AA3
+#EXTINF:-1,현대홈쇼핑+샵
+http://jm54.modhospital.kr:9981/stream/channelid/60?ticket=04B8B8F2BFFD4A94719BC29451FB9A74B5F0AC67
+#EXTINF:-1,홈앤쇼핑
+http://jm54.modhospital.kr:9981/stream/channelid/28?ticket=3BAF2ECF97AB5D00FDB3F35F5FCAAE8B77326588
