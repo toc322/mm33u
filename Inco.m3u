@@ -1,813 +1,207 @@
-﻿#EXTM3U8
-#EXTINF:-1,tvN
-https://edge-th136.cloudrsst.com/live/tvn_540/playlist.m3u8?secret=ce7d465ac28662b445b349e113b9a712&time=1687098037
-#EXTINF:-1,tvN SHOW
-https://edge-th136.cloudrsst.com/live/xtm_540/playlist.m3u8?secret=1fd114ba0139fc823132d8921ed678ae&time=1687098071
-#EXTINF:-1,OCN
-https://edge-th136.cloudrsst.com/live/ocn_540/playlist.m3u8?secret=5a0a719a70ddda85e3389a42dada8325&time=1687097981
-#EXTINF:-1,OCN Movies
-https://edge-th136.cloudrsst.com/live/cgv_540/playlist.m3u8?secret=81bb857ee11cf8b506667e05aaa711a7&time=1687097964
-#EXTINF:-1,OCN Movies2
-https://edge-th136.cloudrsst.com/live/super_action_540/playlist.m3u8?secret=54aa27c33e9d569c43c29d380efbbb4d&time=1687097948
-#EXTINF:-1,중화TV
-https://edge-th136.cloudrsst.com/live/chinesetv_540/playlist.m3u8?secret=2f880223cd8248f7cfe9b847a98be142&time=1687098216
-#EXTINF:-1,KBS1
-https://edge-th136.cloudrsst.com/live/kbs1_540/playlist.m3u8?secret=44d675e68d3e005ac940c94ecfc28301&time=1687097439
-#EXTINF:-1,KBS2
-https://edge-th136.cloudrsst.com/live/kbs2_540/playlist.m3u8?secret=6fe3a9f9cd96a53ae44246b2f25f7749&time=1687097406
-#EXTINF:-1,MBC
-https://edge-th136.cloudrsst.com/live/mbc_540/playlist.m3u8?secret=ead0301c6c0abff1a53c4486f54f382f&time=1687097257
-#EXTINF:-1,SBS
-https://edge-th136.cloudrsst.com/live/sbs_540/playlist.m3u8?secret=002c69d6d57d369b41ba25e7511a36f3&time=1687097369
-#EXTINF:-1,EBS1
-https://edge-th136.cloudrsst.com/live/ebs_1_540/playlist.m3u8?secret=c9d3d07b553dbbbf4da09a7e00c1a85d&time=1687098667
-#EXTINF:-1,JTBC
-https://edge-th136.cloudrsst.com/live/jtbc_540/playlist.m3u8?secret=2e068889c7d00195ce6272032e2adb35&time=1687097564
-#EXTINF:-1,MBN
-https://edge-th136.cloudrsst.com/live/mbn_540/playlist.m3u8?secret=d3d78a3c8eff6ce8abad73fb92526ddc&time=1687097559
-#EXTINF:-1,채널A
-https://edge-th136.cloudrsst.com/live/channela_540/playlist.m3u8?secret=a7059bf025567fc4d55f1756f972e691&time=1687097554
-#EXTINF:-1,TV CHOSUN
-https://edge-th136.cloudrsst.com/live/tvchosun_540/playlist.m3u8?secret=644b64e57e3155ca6c4344fb80ca5bf8&time=1687097548
-#EXTINF:-1,디스커버리
-https://edge-th136.cloudrsst.com/live/discovery_540/playlist.m3u8?secret=bbabc76b0557d54d19db5983ace17e8d&time=1687098401
-#EXTINF:-1,브레인TV
-https://edge-th136.cloudrsst.com/live/brain_tv_540/playlist.m3u8?secret=7d092bab632b4a3164047c2d0a322be5&time=1685164859
-#EXTINF:-1,바둑TV
-https://edge-th136.cloudrsst.com/live/baduk_540/playlist.m3u8?secret=9dbd07116cadf9d362e7ee591edf83b8&time=1685164817
-#EXTINF:-1,KBS KIDS
-https://edge-th136.cloudrsst.com/live/kbs_kids_540/playlist.m3u8?secret=23f6c4882770368040e5ed3837162e7b&time=1687098793
-#EXTINF:-1,tvN SPORTS
-https://edge-th136.cloudrsst.com/live/olivetv_540/playlist.m3u8?secret=fd3a87a9623aca65c8cfc6b46e926333&time=1685164910
-#EXTINF:-1,뽀요TV
-https://edge-th136.cloudrsst.com/live/disney_channel_540/playlist.m3u8?secret=765c305bc8c5a4bf88e7011784d055d2&time=1685164837
-#EXTINF:-1,SBS Sports
-https://edge-th136.cloudrsst.com/live/sbs_sports_540/playlist.m3u8?secret=d96722da29c99236cb9f831d5bd3662c&time=1685164096
-#EXTINF:-1,MBC SPORTS+
-https://edge-th136.cloudrsst.com/live/mbc_sports_540/playlist.m3u8?secret=f943c0718f81453cfb535e2a0a501cda&time=1685164324
-#EXTINF:-1,KBS N SPORTS
-https://edge-th136.cloudrsst.com/live/kbs_n_sports_540/playlist.m3u8?secret=14c83627ee90c18e59ec40646268682e&time=1685164544
-#EXTINF:-1,JTBC GOLF&SPORTS
-https://edge-th136.cloudrsst.com/live/jtbc_3_540/playlist.m3u8?secret=1bb73e3300f0d63567386a890327a018&time=1687098598
-#EXTINF:-1,SBS Golf
-https://edge-th136.cloudrsst.com/live/sbs_golf_540/playlist.m3u8?secret=9e26a634b60d5ce19bd5fc68f1c9e5be&time=1687099106
-#EXTINF:-1,JTBC GOLF
-https://edge-th136.cloudrsst.com/live/jtbc_golf_540/playlist.m3u8?secret=255fa394f8d22969feaa7627fffa4697&time=1687099090
-#EXTINF:-1,FTV
-https://edge-th136.cloudrsst.com/live/ftv_540/playlist.m3u8?secret=b70f2abb15e07d76ec8c194d12c5f9c1&time=1687097890
-#EXTINF:-1,E채널
-https://edge-th136.cloudrsst.com/live/channel_e_540/playlist.m3u8?secret=54f60d7d187ea3da00eb81ce0aa89a73&time=1685275968
-#EXTINF:-1,히스토리
-https://edge-th136.cloudrsst.com/live/history_540/playlist.m3u8?secret=daaf429e86d9e19d11aa1d454a17c5a8&time=1687098988
-#EXTINF:-1,육아방송
-https://edge-th136.cloudrsst.com/live/childrens_tv_540/playlist.m3u8?secret=f46a96d9a4743056cc21c002768f6726&time=1687098905
-#EXTINF:-1,아이넷TV
-https://edge-th136.cloudrsst.com/live/inet_540/playlist.m3u8?secret=2e9197a7aeaaff56d022ae9427ccaf78&time=1687098952
-#EXTINF:-1,SPOTV ON2
-https://edge-th136.cloudrsst.com/live/spotv_on2_540/playlist.m3u8?secret=3b89db49cb951bf14ee5caa2d7e1eb93&time=1685164707
-#EXTINF:-1,SPOTV
-https://edge-th136.cloudrsst.com/live/spotv_540/playlist.m3u8?secret=998741a7fdea6929c21f8527c804daea&time=1685164770
-#EXTINF:-1,JEI 잉크리쉬 TV
-https://edge-th136.cloudrsst.com/live/jei_jenung_540/playlist.m3u8?secret=c4e9726eb352f989bceaaf0e50259eb9&time=1685164378
-#EXTINF:-1,한국경제TV
-https://edge-th136.cloudrsst.com/live/wowtv_540/playlist.m3u8?secret=2ab36b31a514a1f33d2e580873af818b&time=1685164346
+#EXTM3U
+#EXTINF:-1,AXN
+http://211.205.137.41:9981/stream/channelid/49?ticket=0577072545A200F32F7BE86EBE6976FB1E0DBF57
+#EXTINF:-1,BTN불교TV
+http://211.205.137.41:9981/stream/channelid/74?ticket=5F1B3BEAB10106CDB6746772EF0B88A7EC69F963
 #EXTINF:-1,CBS
-https://edge-th136.cloudrsst.com/live/cbs_540/playlist.m3u8?secret=5a85f9fa20f3aba6f2b5299446f08e5d&time=1687098433
-#EXTINF:-1,가톱릭평화방송
-https://edge-th136.cloudrsst.com/live/cpbc_540/playlist.m3u8?secret=e93dcf1cee62c528b81cb19eb75b973b&time=1687098525
-#EXTINF:-1,BBS
-https://edge-th136.cloudrsst.com/live/buddhist_540/playlist.m3u8?secret=2b6fb7ca9f8107616803d3aafd776ef8&time=1687098536
-#EXTINF:-1,KBS1
-http://ye23.vip/z7z8/2021/kbs2020.php?id=1
-#EXTINF:-1,KBS1
-http://luotuo.ycchenrong.cn/dl/kbs.php?id=1
-#EXTINF:-1,KBS1
-http://edge-th136.cloudrsst.com/live/kbs1_540/playlist.m3u8?secret=9617e2050d46210636bcecac104d6319&time=1685620844
-#EXTINF:-1,KBS춘천1
-http://mytv.dothome.co.kr/ch/public/16.php/.m3u8
-#EXTINF:-1,KBS강릉1
-http://mytv.dothome.co.kr/ch/public/16.php.m3u8
-#EXTINF:-1,KBS원주1
-http://mytv.dothome.co.kr/ch/public/16.php.m3u8
-#EXTINF:-1,KBS대전1
-http://mytv.dothome.co.kr/ch/public/11.php/.m3u8
-#EXTINF:-1,KBS대구1
-http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
-#EXTINF:-1,KBS안동1
-http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
-#EXTINF:-1,KBS포항1
-http://mytv.dothome.co.kr/ch/public/13.php/.m3u8
-#EXTINF:-1,KBS부산1
-http://mytv.dothome.co.kr/ch/public/15.php/.m3u8
-#EXTINF:-1,KBS울산1
-http://mytv.dothome.co.kr/ch/public/14.php/.m3u8
-#EXTINF:-1,KBS광주1
-http://mytv.dothome.co.kr/ch/public/12.php/.m3u8
-#EXTINF:-1,KBS목포1
-http://mytv.dothome.co.kr/ch/public/12.php/.m3u8
-#EXTINF:-1,KBS순천1
-http://mytv.dothome.co.kr/ch/public/12.php/.m3u8
-#EXTINF:-1,KBS2
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-#EXTINF:-1,KBS2
-http://luotuo.ycchenrong.cn/dl/kbs.php?id=2
-#EXTINF:-1,KBS2
-http://gg.gg/Ha_Noi_IPTV_1-KBS2_HD-Giai_tri_Quoc_gia
-#EXTINF:-1,KBS2
-http://edge-th136.cloudrsst.com/live/kbs2_540/playlist.m3u8?secret=679b9ef74caec9f1cc2feec6816d826c&time=1685620860
-#EXTINF:-1,MBC
-https://tinyurl.com/mr3ae29k/.m3u8
-#EXTINF:-1,MBC
-http://gg.gg/Ha_Noi_IPTV_3-MBC_HD-Dac_sac_Quoc_gia
-#EXTINF:-1,MBC
-http://edge-th136.cloudrsst.com/live/mbc_540/playlist.m3u8?secret=a5ed4074d04ffc13598aad66f4763dcf&time=1685620842
-#EXTINF:-1,MBC춘천TV
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-1,MBC강원영동TV
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,MBC대전TV
-https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1,MBC충북TV
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-#EXTINF:-1,MBC충북TV
-http://8.ykwlm.sinaapp.com/han3.php?id=23
-#EXTINF:-1,MBC대구TV
-https://5e04aba713813.streamlock.net/live/livetv/playlist.m3u8
-#EXTINF:-1,MBC안동TV
-http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-#EXTINF:-1,MBC안동TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_5_2EF185C8.m3u8
-#EXTINF:-1,MBC부산TV
-http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
-#EXTINF:-1,MBC부산TV
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/Public_5.m3u8
-#EXTINF:-1,MBC경남TV
-https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
-#EXTINF:-1,MBC경남TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_6_781A50DD.m3u8
-#EXTINF:-1,MBC울산TV
-https://5ddfd163bd00d.streamlock.net:443/nHDTV/nHDTV/playlist.m3u8
-#EXTINF:-1,MBC광주TV
-http://media.kjmbc.co.kr:1935/live/stream/playlist.m3u8
-#EXTINF:-1,MBC목포TV
-https://vod.mpmbc.co.kr/a_live/25246741/ch001/playlist.m3u8
-#EXTINF:-1,MBC목포TV
-http://8.ykwlm.sinaapp.com/han3.php?id=10
-#EXTINF:-1,MBC목포TV
-https://vod.mpmbc.co.kr/a_live/25246741/ch001/chunklist.m3u8
-#EXTINF:-1,MBC여수TV
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1,MBC전주TV
-https://5ee9633b25727.streamlock.net:443/jmbc_tv/jmbc_tv.stream/playlist.m3u8
-#EXTINF:-1,MBC제주TV
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1,SBS
-http://8.ykwlm.sinaapp.com/han3.php?id=17/.m3u8
-#EXTINF:-1,SBS
-http://8.ykwlm.sinaapp.com/han3.php?id=18/.m3u8
-#EXTINF:-1,SBS
-http://8.ykwlm.sinaapp.com/sbs.php?id=1
-#EXTINF:-1,SBS
-http://8.ykwlm.sinaapp.com/sbs1.php?id=1
-#EXTINF:-1,SBS
-http://gg.gg/Ha_Noi_IPTV_2-SBS_HD-Truyen_hinh_Thu_do
-#EXTINF:-1,SBS
-http://edge-th136.cloudrsst.com/live/sbs_540/playlist.m3u8?secret=4db1bcd61ce72bd332082e2b09a2cf62&time=1685620779
-#EXTINF:-1,G1강원TV
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1,TJB대전TV
-http://1.245.74.5:1935/live/tv/playlist.m3u8
-#EXTINF:-1,TJB대전TV
-http://8.ykwlm.sinaapp.com/han3.php?id=14
-#EXTINF:-1,CJB충북TV
-http://1.222.207.80:1935/live/cjbtv/.m3u8
-#EXTINF:-1,TBC대구TV
-http://mytv.dothome.co.kr/ch/public/8.php
-#EXTINF:-1,TBC대구TV
-http://203.251.91.122:1935/on-air-Backup/tv/chunklist_w282530108.m3u8
-#EXTINF:-1,TBC대구TV
-http://203.251.91.122:1935/on-air/tv/playlist.m3u8
-#EXTINF:-1,KNN부산경남
-http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
-#EXTINF:-1,KNN부산경남
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1,JTV전주TV
-http://61ff3340258d2.streamlock.net:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1,JTV전주TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
-#EXTINF:-1,UBC울산TV
-http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-1,KBC광주TV
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1,JIBS제주TV
-http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1,OBS경인TV
-https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-#EXTINF:-1,OBS경인TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_55.m3u8
-#EXTINF:-1,EBS1
-http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS1
-http://edge-th136.cloudrsst.com/live/live/ebs_1_540/playlist.m3u8?secret=7049990ec4d323dd78ce58364a555d9f&time=1685621927
-#EXTINF:-1,EBS1
-https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/master.m3u8
-#EXTINF:-1,EBS1
-http://1.214.67.103/vod/38503.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1,EBS2
-http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS2
-https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,KBS News D
-http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-#EXTINF:-1,KBS Joy
-http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-#EXTINF:-1,KBS JOY
-http://edge-th136.cloudrsst.com/live/kbs_joy_540/playlist.m3u8?secret=36f5fde48f793f7063be3cd34b351dcb&time=1685621262
-#EXTINF:-1,KBS Drama
-http://ye23.vip/z7z8/2021/kbs2020.php?id=5
-#EXTINF:-1,KBS DRAMA
-http://edge-th136.cloudrsst.com/live/kbs_drama_540/playlist.m3u8?secret=e554ad81a44452dd4b9da76115764a91&time=1685624698
-#EXTINF:-1,KBS Story
-http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-#EXTINF:-1,KBS Life
-http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-#EXTINF:-1,KBS World
-http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-#EXTINF:-1,MBC에브리원
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
-#EXTINF:-1,MBC드라마넷
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
-#EXTINF:-1,MBC ON
-http://edge-th136.cloudrsst.com/live/mbc_on_540/playlist.m3u8?secret=d3b9833f4d077e9a0904ad87e571d433&time=1685621136
-#EXTINF:-1,MBCNET
-http://mytv.dothome.co.kr/ch/catv/28.php/.m3u8
-#EXTINF:-1,SBS Plus
-http://edge-th136.cloudrsst.com/live/sbs_plus_540/playlist.m3u8?secret=d6235225f2e080ef7eccb6ced97bdd43&time=1685624727
-#EXTINF:-1,SBS M
-http://gg.gg/Ha_Noi_IPTV_59-SBS_Music-Ca_nhac_The_gioi
-#EXTINF:-1,SBS Biz
-http://gg.gg/Ha_Noi_IPTV_58-SBS_Biz-Kinh_te_Tai_chinh
-#EXTINF:-1,EBS+1
-http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS+1
-https://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,EBS+2
-http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS+2
-http://edge-th136.cloudrsst.com/live/live/ebs_2_540/playlist.m3u8?secret=1517aab0def61fbed938466bd005557c&time=1685624421
-#EXTINF:-1,EBS+2
-https://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,EBSe
-http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS잉크리쉬
-https://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,JTBC
-http://edge-th136.cloudrsst.com/live/jtbc_540/playlist.m3u8?secret=4acc9ca98b13cd47aff4c47dde4db034&time=1685620771
-#EXTINF:-1,JTBC
-http://everylive.online/live/jtbc/livestream.m3u8
-#EXTINF:-1,JTBC4
-http://gg.gg/Ha_Noi_IPTV_9-JTBC4-Giai_tri_Danh_cho_Gioi_tre
-#EXTINF:-1,MBN
-http://mytv.dothome.co.kr/ch/catv/54.php/.m3u8
-#EXTINF:-1,MBN
-http://edge-th136.cloudrsst.com/live/mbn_540/playlist.m3u8?secret=b79bd9369c90ac3ecad89fef5c4f120c&time=1685620678
-#EXTINF:-1,MBN
-http://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,채널A
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_52_73BCC134.m3u8
-#EXTINF:-1,채널A
-http://edge-th136.cloudrsst.com:443/live/channela_540/playlist.m3u8?secret=b48d60af25465a9a8946fd08de423379&time=1685620693
-#EXTINF:-1,TV조선
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_213_B633C402.m3u8
-#EXTINF:-1,TV CHOSUN
-http://edge-th136.cloudrsst.com/live/tvchosun_540/playlist.m3u8?secret=01a0fc9c8cf0448115d532bde01dbc3f&time=1685711955
-#EXTINF:-1,YTN
-http://hls.ye23.vip/hk/ytn.php/.m3u8
-#EXTINF:-1,YTN
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_121_69D6F939.m3u8
-#EXTINF:-1,YTN
-http://edge-th136.cloudrsst.com/live/ytn_540/playlist.m3u8?secret=53aeed1823b83cdda0a22e964286d98d&time=1685620649
-#EXTINF:-1,YTN
-http://nettvpro.live/hls/naver.php?id=3074734
-#EXTINF:-1,YTN
-http://gg.gg/Ha_Noi_IPTV_Plus_1-YTN-Tin_tuc_Hang_dau
-#EXTINF:-1,YTN2
-http://hls.ye23.vip/hk/ytn2.php/.m3u8
-#EXTINF:-1,YTN2
-https://ythls.onrender.com/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
-#EXTINF:-1,YTN사이언스
-http://mytv.dothome.co.kr/ch/catv/261.php/.m3u8
-#EXTINF:-1,YTN Science
-https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
-#EXTINF:-1,YTN Science
-https://ythls.onrender.com/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
-#EXTINF:-1,연합뉴스TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_124_6F352425.m3u8
-#EXTINF:-1,연합뉴스TV
-http://gg.gg/Ha_Noi_IPTV_Plus_2-Yonhap_News_TV-Moi_luc_Moi_noi
-#EXTINF:-1,연합뉴스TV
-http://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
-#EXTINF:-1,연합뉴스TV
-http://edge-th136.cloudrsst.com/live/newsy_540/playlist.m3u8?secret=ee5f210cca8805e94860b736c30e8dee&time=1685620505
-#EXTINF:-1,연합뉴스TV
-https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,연합뉴스TV
-http://nettvpro.live/hls/naver.php?id=3046074
-#EXTINF:-1,연합뉴스경제TV
-https://ythls.onrender.com/channel/UC6kZpTl39-_SqfBrF1-N2oQ.m3u8
-#EXTINF:-1,tvN
-http://everylive.online/live/tvn/livestream.m3u8
-#EXTINF:-1,tvN
-https://cdn-us-154.cloudrsst.com/live/tvn_540/playlist.m3u8?secret=f7ca6422ea61e3e17c3c221c1e60afcd&time=1671956171
-#EXTINF:-1,tvN
-http://gg.gg/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
-#EXTINF:-1,tvN
-http://edge-th136.cloudrsst.com/live/tvn_540/playlist.m3u8?secret=c73fac759cffb2fa715f1c2c9a5e3be7&time=1685621264
-#EXTINF:-1,tvN
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_227_00114D0A.m3u8
-#EXTINF:-1,Mnet
-http://everylive.online/live/mnet/livestream.m3u8
-#EXTINF:-1,Mnet
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_225_9E0A6B75.m3u8
-#EXTINF:-1,Mnet
-https://edge-th136.cloudrsst.com:443/live/mnet_540/playlist.m3u8?secret=0e12cfc10bf71878dcf46c5127afa73f&time=1685621372
-#EXTINF:-1,Mnet
-https://cdn-us-154.cloudrsst.com/live/mnet_540/playlist.m3u8?secret=18de1b3353f71e5e183a587bfaacbbe3&time=1671956168
-#EXTINF:-1,MNet
-http://gg.gg/Ha_Noi_IPTV_6-MNet-K-Pop_Chuyen_biet
-#EXTINF:-1,tvN SHOW
-https://cdn-us-154.cloudrsst.com/live/xtm_540/playlist.m3u8?secret=c826dc45bf820623916f9701d7f3aff5&time=1671956161
-#EXTINF:-1,tvN SHOW
-http://edge-th136.cloudrsst.com/live/xtm_540/playlist.m3u8?secret=b4359715cf689b3bf89a216c3d73b223&time=1685621375
-#EXTINF:-1,ENA PLAY
-http://gg.gg/Ha_Noi_IPTV_28-ENA_Play-Giai_tri_cho_Nguoi_Ham_mo và
-#EXTINF:-1,ONCE
-http://gg.gg/Ha_Noi_IPTV_29-ONCE-Lich_su_Chuyen_biet
-#EXTINF:-1,토마토클래식
-https://ythls.onrender.com/channel/UC4fNaj5v2JzIbE7fCr_6NnA.m3u8
-#EXTINF:-1,IHQ
-http://edge-th136.cloudrsst.com/live/comedy_540/playlist.m3u8?secret=6f4d37f8347726715eb3b2a467227f69&time=1685621269
+http://211.205.137.41:9981/stream/channelid/73?ticket=20986CE2E6A40572AD5E7687B526E2BE792A3168
+#EXTINF:-1,CJ온스타일
+http://211.205.137.41:9981/stream/channelid/28?ticket=3EFF0BF80A54A649D28C78AACC63CF8544159E1E
+#EXTINF:-1,CJ온스타일+
+http://211.205.137.41:9981/stream/channelid/82?ticket=1DA3552B61420B1B4A2845B3B581786BFCE729B4
+#EXTINF:-1,CMC TV
+http://211.205.137.41:9981/stream/channelid/86?ticket=4FAAD339D03A969C902B30E250750755713D4A7F
+#EXTINF:-1,CNTV
+http://211.205.137.41:9981/stream/channelid/64?ticket=37C7A76DAB34D13ABB06168B092EE191CCF3B4FD
+#EXTINF:-1,CTS
+http://211.205.137.41:9981/stream/channelid/71?ticket=10A86D01E9B412B5F305F77977803018E66F309B
+#EXTINF:-1,EBS Digital
+http://211.205.137.41:9981/stream/channelid/17?ticket=D56D1827AAF1D36A49E10B4F545DB13AC3C4469A
+#EXTINF:-1,EBS Digital 
+http://211.205.137.41:9981/stream/channelid/18?ticket=82150E75A31E867CAE21FAA3F7B5991CBF55A0EE
+#EXTINF:-1,EBS플러스1
+http://211.205.137.41:9981/stream/channelid/98?ticket=D93E945047D7D4A622B5FFB32DF6A2F3813DF01E
+#EXTINF:-1,EBS플러스2
+http://211.205.137.41:9981/stream/channelid/93?ticket=082DAEB6215080AF2D4EAFC749725FEB292EFF0E
+#EXTINF:-1,EDGE TV
+http://211.205.137.41:9981/stream/channelid/85?ticket=F0BDE301710CE7460901BADB1F121103D30A8547
+#EXTINF:-1,ETN연예
+http://211.205.137.41:9981/stream/channelid/53?ticket=AA6C2FE55952A5066C1065F119991095DCFC595B
 #EXTINF:-1,E채널
-http://edge-th136.cloudrsst.com/live/channel_e_540/playlist.m3u8?secret=1de7b5fc3064af11d5bbe2aebbbf69c2&time=1685621660
-#EXTINF:-1,TBS
-https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-#EXTINF:-1,TBS
-http://ak-sigma.play.kakao.com/c6dd1feb213b6209/main/2/2.m3u8
-#EXTINF:-1,TBS
-http://nettvpro.live/hls/naver.php?id=2053573
-#EXTINF:-1,디스커버리
-https://edge-th136.cloudrsst.com:443/live/discovery_540/playlist.m3u8?secret=64c462f39004f312000746fca69808a3&time=1685621771
-#EXTINF:-1,더라이프
-http://1.214.67.206/vod/05301.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1,히스토리
-http://edge-th136.cloudrsst.com/live/history_540/playlist.m3u8?secret=37c5c0ac1c3313ee37f71e727f5b7a0f&time=1685624337
-#EXTINF:-1,가요TV
-http://gayotv.net:8080/live/gayotv.m3u8
-#EXTINF:-1,한국가요채널
-http://live.kytv.co.kr:8080/hls/stream.m3u8
-#EXTINF:-1,한국가요채널
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
-#EXTINF:-1,실버아이TV
-http://m.silveritv.kr:8080/hls/stream.m3u8
-#EXTINF:-1,아이넷TV
-http://edge-th136.cloudrsst.com/live/inet_540/playlist.m3u8?secret=ce3c1dfb63d1c232b323a998c3e2632e&time=1685622925
-#EXTINF:-1,RNA
-http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-#EXTINF:-1,한국직업방송
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1,국악방송
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1,국회방송
-https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
-#EXTINF:-1,소상공인방송
-https://cdnlive179.smartucc.kr/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
-#EXTINF:-1,복지TV
-http://cdnlive29.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
-#EXTINF:-1,한국농업방송
-https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
-#EXTINF:-1,국방TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1,KTV국민방송
-https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
-#EXTINF:-1,KTV국민방송
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1,지방자치TV
-https://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
-#EXTINF:-1,채널i
-http://1.201.160.177:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,시민방송 RTV
-https://rtv-stream2.a04f922e9e85c8d25ebfeae3dfd22a67.com/rtv/rtv.m3u8
-#EXTINF:-1,아리랑 TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,MGTV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_425.m3u8
-#EXTINF:-1,다문화TV
-https://10st.vcast.im/MYASIATV/SC82767452/playlist.m3u8
-#EXTINF:-1,RTV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_424.m3u8
-#EXTINF:-1,지방자치TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_426_5FDDD1E3.m3u8
-#EXTINF:-1,지방자치TV
-http://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
-#EXTINF:-1,육아방송
-http://edge-th136.cloudrsst.com/live/child_care_540/playlist.m3u8?secret=252c8ab1f973547d2b8ca901af5b0901&time=1685622717
-#EXTINF:-1,Arirang TV
-http://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
-#EXTINF:-1,방송대학TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_313_D46B5C07.m3u8
-#EXTINF:-1,방송대학TV
-https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1,한국경제TV
-http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
-#EXTINF:-1,한국경제TV
-http://ak-sigma.play.kakao.com/d926c774569793f0/main/2/2.m3u8
-#EXTINF:-1,한국경제TV
-https://ythls.onrender.com/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
-#EXTINF:-1,한국경제TV
-http://edge-th136.cloudrsst.com/live/wowtv_540/playlist.m3u8?secret=d0c2c5b7eca581b9a0c54aaaab02b5f4&time=1685620524
-#EXTINF:-1,한국경제TV
-http://nettvpro.live/hls/naver.php?id=2138420
-#EXTINF:-1,토마토증권통
-https://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
-#EXTINF:-1,토마토증권통
-https://ythls.onrender.com/channel/UCgJ5pT6S2NuTVP-6-AlLZew.m3u8
-#EXTINF:-1,이데일리TV
-https://ythls.onrender.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
-#EXTINF:-1,머니투데이방송
-http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
-#EXTINF:-1,머니투데이방송
-https://ythls.onrender.com/channel/UClErHbdZKUnD1NyIUeQWvuQ.m3u8
-#EXTINF:-1,MTN 머니투데이방송
-http://nettvpro.live/hls/naver.php?id=3083306
-#EXTINF:-1,서울경제TV
-http://ak-sigma.play.kakao.com/9aa31eb366d72a4b/main/2/2.m3u8
-#EXTINF:-1,서울경제TV
-https://ythls.onrender.com/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
-#EXTINF:-1,매일경제TV
-http://vodmmf.mbn.co.kr/mmoney/smil:money.smil/chunklist_b440000.m3u8
-#EXTINF:-1,매일경제TV
-http://ak-sigma.play.kakao.com/16cf24e92dce58b7/main/2/2.m3u8
-#EXTINF:-1,매일경제TV
-https://ythls.onrender.com/channel/UCnfwIKyFYRuqZzzKBDt6JOA.m3u8
-#EXTINF:-1,매일경제TV
-http://nettvpro.live/hls/naver.php?id=2085410
-#EXTINF:-1,매일경제TV
-http://mmoney.flive.skcdn.com/mmoneymobile/smil:money.smil/playlist.m3u8
-#EXTINF:-1,이데일리TV
-http://nettvpro.live/hls/naver.php?id=2141381
-#EXTINF:-1,이데일리TV
-https://ythls.onrender.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
-#EXTINF:-1,토마토집통
-https://ythls.onrender.com/channel/UC0OGisUcF1mAwL4pqjLCmhg.m3u8
-#EXTINF:-1,NBNTV
-https://ythls.onrender.com/channel/UC9pIt2-Mt3wFnbVHhigNMVQ.m3u8
-#EXTINF:-1,NBNTV
-http://ak-sigma.play.kakao.com/5a3278ab2db911f3/main/2/2.m3u8
-#EXTINF:-1,팍스경제TV
-http://gg.gg/Ha_Noi_IPTV_116-Pag_Seu_Gyeong_Je_TV-Kinh_te_Hang_dau
-#EXTINF:-1,CTS기독교TV
-https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
-#EXTINF:-1,CTS
-http://ak-sigma.play.kakao.com/01250c98e8cb1ee9/main/2/2.m3u8
-#EXTINF:-1,CTS
-http://8.ykwlm.sinaapp.com/han3.php?id=24
-#EXTINF:-1,CGN
-https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8
-#EXTINF:-1,GOOD TV
-http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1,가톨릭평화방송
-http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
-#EXTINF:-1,가톨릭평화방송
-https://edge-th136.cloudrsst.com:443/live/cpbc_540/playlist.m3u8?secret=3ab52a6fdb8643af6706b7dd90b3b31e&time=1685621776
-#EXTINF:-1,BTN불교TV
-https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1,BTN불교TV
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=648
-#EXTINF:-1,BBS불교방송
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-#EXTINF:-1,BBS불교방송
-http://edge-th136.cloudrsst.com/live/buddhist_540/playlist.m3u8?secret=a7c74f7cb298a3fc122a3116451bb71d&time=1685621783
-#EXTINF:-1,CBS TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_401.m3u8
-#EXTINF:-1,CBS TV
-https://ythls.onrender.com/channel/UC0NOO9jkIj_4ML7IbtTwQHQ.m3u8
-#EXTINF:-1,CBS TV
-http://edge-th136.cloudrsst.com/live/cbs_540/playlist.m3u8?secret=90ee8f19bebc2cf68da50b4691041ac0&time=1685621772
-#EXTINF:-1,CBS TV
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=646
-#EXTINF:-1,원음방송
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_409.m3u8
-#EXTINF:-1,C채널
-http://112.175.51.214:1935/live/myStream/chunklist_w424545528.m3u8
-#EXTINF:-1,C채널
-http://8.ykwlm.sinaapp.com/han3.php?id=26
-#EXTINF:-1,CMTV
-http://ak-sigma.play.kakao.com/221be60bb6350f7c/main/2/2.m3u8
-#EXTINF:-1,CJ OnStyle
-https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1,CJ OnStyle
-http://1.214.67.206/vod/67201.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
+http://211.205.137.41:9981/stream/channelid/95?ticket=F345032C70A9F328F22DD5D4DEB7D0215716E19E
+#EXTINF:-1,FOX채널
+http://211.205.137.41:9981/stream/channelid/99?ticket=2F90067BF13433609D0A11BD4700DDF64DBF67AE
+#EXTINF:-1,FTV
+http://211.205.137.41:9981/stream/channelid/79?ticket=E16976B7EEDA94AF22593CA5EDB88136FD858648
+#EXTINF:-1,FUN TV
+http://211.205.137.41:9981/stream/channelid/59?ticket=6D2A465CF751FEEB2D9ECB603568A1FB410EBBAD
 #EXTINF:-1,GS Shop
-https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1,GS SHOP
-http://1.214.67.206/vod/67601.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1,현대홈쇼핑
-https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
-#EXTINF:-1,현대홈쇼핑
-https://edge-th136.cloudrsst.com:443/live/hyundaih_mall_540/playlist.m3u8?secret=78e41efb6436ad7cbd10060946e89322&time=1685621673
-#EXTINF:-1,현대홈쇼핑
-http://1.214.67.206/vod/67501.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1,롯데홈쇼핑
-https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
-#EXTINF:-1,롯데홈쇼핑
-http://1.214.67.206/vod/67401.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1,롯데홈쇼핑
-https://pchlslivegd.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+http://211.205.137.41:9981/stream/channelid/29?ticket=04E259005A154AADFECCF2C4D6CAE7485D0A1F4C
+#EXTINF:-1,GS마이샵
+http://211.205.137.41:9981/stream/channelid/66?ticket=0F48CD5F0593755000F1557BC10912575E64B72B
+#EXTINF:-1,GTV
+http://211.205.137.41:9981/stream/channelid/6?ticket=02B20C2A1E24A88F2A18EF20C0A8D45987A519B0
+#EXTINF:-1,JTBC2
+http://211.205.137.41:9981/stream/channelid/70?ticket=38B75287DB2E8ACCDD6ED63493CB078810C20463
+#EXTINF:-1,JTBC3
+http://211.205.137.41:9981/stream/channelid/87?ticket=A648A1AABC25DC7F7D4C62EC6B96C7F2481CDD82
+#EXTINF:-1,JTBC4
+http://211.205.137.41:9981/stream/channelid/58?ticket=579404F49CE2758854846B894FDE8EA73A4A2E7E
+#EXTINF:-1,K star
+http://211.205.137.41:9981/stream/channelid/50?ticket=D95BE88032958823F9FD02292A56614E3C79580B
+#EXTINF:-1,KBS JOY
+http://211.205.137.41:9981/stream/channelid/77?ticket=176DDED55D049754D68EBC50F03608DB8AFF7D73
+#EXTINF:-1,KBSN스포츠
+http://211.205.137.41:9981/stream/channelid/88?ticket=76463B0660928C9F2054ADFA61783737A5A39A26
+#EXTINF:-1,KBS드라마
+http://211.205.137.41:9981/stream/channelid/2?ticket=CED729CF57B8850354F0C8C631E2D6B625BD43CC
+#EXTINF:-1,KOREA NEW NETWORK
+http://211.205.137.41:9981/stream/channelid/19?ticket=7C9710A52083EBBC5E40A08FEB198E242157A7A0
+#EXTINF:-1,KTV
+http://211.205.137.41:9981/stream/channelid/34?ticket=D9E9877A076535EEC00603ED3FF040D692F080B4
+#EXTINF:-1,K쇼핑
+http://211.205.137.41:9981/stream/channelid/30?ticket=39ED1B6B1EA72664FA9C636744C069F363D95E7F
+#EXTINF:-1,M.net
+http://211.205.137.41:9981/stream/channelid/7?ticket=1100089237D7A134E3BAB57E731E9C6BF56BCBB7
+#EXTINF:-1,MBC DTV
+http://211.205.137.41:9981/stream/channelid/22?ticket=F1CE8BABDBBDDAE3F68213FCC701F6BE776F8AAF
+#EXTINF:-1,MBC Eve
+http://211.205.137.41:9981/stream/channelid/102?ticket=F6E3020B80ECB404F0043992CCD48F57DF19FEE1
+#EXTINF:-1,MBC ON
+http://211.205.137.41:9981/stream/channelid/84?ticket=C93BD24C22F96A6ABCC856C4DC8BABDFD9C61A2A
+#EXTINF:-1,MBC드라마넷
+http://211.205.137.41:9981/stream/channelid/23?ticket=2645220C6473F776E881FEE607069B5CF778C170
+#EXTINF:-1,MBC스포츠+
+http://211.205.137.41:9981/stream/channelid/89?ticket=99F5B083083F093301FA5F1EAA621BF6C00E420D
+#EXTINF:-1,MBN
+http://211.205.137.41:9981/stream/channelid/31?ticket=9BE0F4756B70A827B03F1BBEAF85442EC885A62B
+#EXTINF:-1,Mplex
+http://211.205.137.41:9981/stream/channelid/57?ticket=7D967B49F225BF3792891D48B0FD153ED0AB5061
+#EXTINF:-1,NHK프리미엄
+http://211.205.137.41:9981/stream/channelid/52?ticket=DDFB8329F91C7715E4EA4801D66642B302C52A5D
+#EXTINF:-1,NS샵플러스
+http://211.205.137.41:9981/stream/channelid/72?ticket=29A801C3F7D02C70598B4CE60C56CE69C4BB7F65
 #EXTINF:-1,NS홈쇼핑
-https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
-#EXTINF:-1,NS홈쇼핑
-http://livestream.nsmall.com:1935/IPHONE/test.m3u8
-#EXTINF:-1,공영쇼핑
-https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:-1,홈앤쇼핑
-https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-#EXTINF:-1,신세계쇼핑
-https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-#EXTINF:-1,쇼핑앤티
-https://live.shoppingntmall.com/live/10011.m3u8
+http://211.205.137.41:9981/stream/channelid/25?ticket=98C70BB391907A60E47E3B841E91EFBB3A37A9DE
+#EXTINF:-1,OCN
+http://211.205.137.41:9981/stream/channelid/42?ticket=9A634932EA57D5EF3A038DEB46EB274277BDBEE7
+#EXTINF:-1,OCN무비즈
+http://211.205.137.41:9981/stream/channelid/10?ticket=B7123340A439BDDE276AF2617E21427B295C5724
+#EXTINF:-1,OUN
+http://211.205.137.41:9981/stream/channelid/43?ticket=E00EDFDFD7F46FA090B1BD57FCBD37ABF0EF318A
+#EXTINF:-1,OtvN
+http://211.205.137.41:9981/stream/channelid/14?ticket=004D6709CF5DB05B8FEF3A64D6B7CC8099E4F729
+#EXTINF:-1,SBS Biz
+http://211.205.137.41:9981/stream/channelid/16?ticket=56A94D621CE97A75047AF2914DE586B00AFCD947
+#EXTINF:-1,SBSfunE
+http://211.205.137.41:9981/stream/channelid/69?ticket=6A2899868E1ECD2F65C06589E3834F4A0A258E34
+#EXTINF:-1,SBS스포츠
+http://211.205.137.41:9981/stream/channelid/67?ticket=128CBE6D04206C61ED97F5F9565E9EB5BE154B21
+#EXTINF:-1,SBS플러스
+http://211.205.137.41:9981/stream/channelid/36?ticket=2600DB60C836936FF50E61733051FC00D3A2722D
+#EXTINF:-1,SK스토아
+http://211.205.137.41:9981/stream/channelid/45?ticket=2770274905EE7198B97C80FFD077DD9F1F74A0C7
+#EXTINF:-1,SPOTV
+http://211.205.137.41:9981/stream/channelid/8?ticket=C87F0D12AEC3632B5710FF357C8072D06DE465F4
+#EXTINF:-1,SPOTV2
+http://211.205.137.41:9981/stream/channelid/103?ticket=08629E4508C2809F1E0410302A76E3303E7EC7DD
+#EXTINF:-1,TV아시아
+http://211.205.137.41:9981/stream/channelid/60?ticket=A6208BBEA47479E61120AAD3487B592B6CAD23DD
+#EXTINF:-1,TV조선
+http://211.205.137.41:9981/stream/channelid/41?ticket=DC3DE99ED356C641340DF5FB481F95C0A2057D25
 #EXTINF:-1,W쇼핑
-https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-#EXTINF:-1,SK Stoa
-http://castcache2.skstoa.com:8080/2001.stream/tsmux.noll_master.m3u8
-#EXTINF:-1,SK Stoa
-http://cast.skstoa.com:8080/live/SKSTOA.daml/playlist.m3u8
-#EXTINF:-1,KT알파쇼핑
-https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
-#EXTINF:-1,KT알파쇼핑
-https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
-#EXTINF:-1,Lotte OneTV
-http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8
-#EXTINF:-1,CJ OnStyle Plus
-https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1,GS My Shop
-https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:-1,현대홈쇼핑플러스샵
-https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
-#EXTINF:-1,NS샵플러스
-https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-#EXTINF:-1,NS샵플러스
-http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
-#EXTINF:-1,MBC SPORTS+
-http://edge-th136.cloudrsst.com/live/mbc_sports_540/playlist.m3u8?secret=9808246e700a7b915e56447d0b3b5b46&time=1685621133
-#EXTINF:-1,MBC SPORTS+
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_252_0854475A.m3u8
-#EXTINF:-1,SBS Sports
-http://edge-th136.cloudrsst.com/live/sbs_sports_540/playlist.m3u8?secret=68134ff713c3adfb3dd3e1220b3c1c24&time=1685621139
-#EXTINF:-1,SBS Sports
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_251_9BF9A041.m3u8
-#EXTINF:-1,SBS Sports
-http://1.214.67.206/vod/38101.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1,SBS Sports
-https://d2zve2l62bwzcf.cloudfront.net/h264/sbssports/cmaf-hls/master.m3u8
-#EXTINF:-1,KBS N SPORTS
-https://edge-th136.cloudrsst.com:443/live/kbs_n_sports_540/playlist.m3u8?secret=37c9060170014c29eefa410eeb7ff05d&time=1685621131
-#EXTINF:-1,KBS N SPORTS
-https://d2zve2l62bwzcf.cloudfront.net/h264/kbsnsports/cmaf-hls/master.m3u8
-#EXTINF:-1,SPOTV
-https://d2zve2l62bwzcf.cloudfront.net/h264/spotv1/cmaf-hls/master.m3u8
-#EXTINF:-1,SPOTV
-http://edge-th136.cloudrsst.com/live/spotv_540/playlist.m3u8?secret=a80a249bb900c3c44193ceffe9199d74&time=1685621253
-#EXTINF:-1,SPOTV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_253_B82915DE.m3u8
-#EXTINF:-1,SPOTV2
-https://d2zve2l62bwzcf.cloudfront.net/h264/spotv2/cmaf-hls/master.m3u8
-#EXTINF:-1,SPOTV2
-http://edge-th136.cloudrsst.com/live/spotv_2_540/playlist.m3u8?secret=db7dee36d864289ff7d8bceab229743d&time=1685621259
-#EXTINF:-1,SPOTV2
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_254_3889C0E6.m3u8
-#EXTINF:-1,SPOTV ON
-http://edge-th136.cloudrsst.com/live/spotv_on_540/playlist.m3u8?secret=e46c1efa862cc0446e946a89d68900b8&time=1685624658
-#EXTINF:-1,SPOTV ON2
-http://edge-th136.cloudrsst.com/live/spotv_on2_540/playlist.m3u8?secret=27aedf2e13ea64e8e2fe40454359a3b0&time=1685624635
-#EXTINF:-1,SPOTV PRIME
-http://edge-th136.cloudrsst.com/live/spotv_prime_540/playlist.m3u8?secret=28df262e689a8f71dd304b0fac50d991&time=1685624394
-#EXTINF:-1,스카이스포츠
-https://cdn-us-154.cloudrsst.com/live/sky_sports_540/playlist.m3u8?secret=3834224c9b00160fdbfb5c80a7af4aaa&time=1671956576
-#EXTINF:-1,스카이스포츠
-http://edge-th136.cloudrsst.com/live/live/sky_sports_540/playlist.m3u8?secret=6a1fe04c9389bfc3547e584e46fe8d19&time=1685621374
-#EXTINF:-1,스카이스포츠
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_256_1AA404A2.m3u8
-#EXTINF:-1,tvN SPORTS
-http://edge-th136.cloudrsst.com/live/olivetv_540/playlist.m3u8?secret=41ef9c30cc1556ac46adbaf345a8f6e4&time=1685621273
-#EXTINF:-1,tvN SPORTS
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_255_C81579EF.m3u8
-#EXTINF:-1,tvN SPORTS
-http://gg.gg/Ha_Noi_IPTV_20-tvN_SPORTS-The_thao_Hang_dau
-#EXTINF:-1,SBS Golf
-http://edge-th136.cloudrsst.com/live/sbs_golf_540/playlist.m3u8?secret=924f9855964fc96756efe4fc8b53947f&time=1685621147
-#EXTINF:-1,SBS Golf
-http://1.214.67.38/vod/61411.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1,SBS GOLF
-https://d2zve2l62bwzcf.cloudfront.net/h264/sbsgolf/cmaf-hls/master.m3u8
-#EXTINF:-1,SBS Golf
-https://d2zve2l62bwzcf.cloudfront.net/h264/sbsgolf/cmaf-hls/master.m3u8
-#EXTINF:-1,JTBC GOLF
-http://jtbcgolf.flive.skcdn.com/jtbcgolf1/_definst_/41CC500CABE5599F21132B30F8EB0C0A58E467FB83E26F8B0568A9D4BE2FDA99/chunklist_w400155007.m3u8
-#EXTINF:-1,JTBC GOLF
-https://d2zve2l62bwzcf.cloudfront.net/h264/jtbcgolf/cmaf-hls/master.m3u8
-#EXTINF:-1,JTBC GOLF
-http://edge-th136.cloudrsst.com/live/jtbc_golf_540/playlist.m3u8?secret=cce4ee1279f28e012e8ffbea244c8ba3&time=1685621146
-#EXTINF:-1,JTBC Golf
-http://1.214.67.38/vod/60211.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1,JTBC GOLF
-https://d2zve2l62bwzcf.cloudfront.net/h264/jtbcgolf/cmaf-hls/master.m3u8
-#EXTINF:-1,JTBC GOLF&SPORTS
-http://mytv.dothome.co.kr/ch/catv/58.php/
-#EXTINF:-1,JTBC GOLF&SPORTS
-http://edge-th136.cloudrsst.com/live/jtbc_3_540/playlist.m3u8?secret=79a144d411f077a40f9190e7853c63d5&time=1685621783
-#EXTINF:-1,STN
-http://ak-sigma.play.kakao.com/e10f3a9f3c013975/main/2/2.m3u8
-#EXTINF:-1,FISHING TV
-http://media.fishingtv.kr:1935/mobileLIVE/_definst_/mp4:livestream.sdp/playlist.m3u8
-#EXTINF:-1,FISHING TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_561.m3u8
-#EXTINF:-1,FTV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_562_B2C3DA7C.m3u8
-#EXTINF:-1,FTV
-http://edge-th136.cloudrsst.com/live/live/ftv_540/playlist.m3u8?secret=7adc1ddfeb7914c4eedae8aaf4f60aeb&time=1685621658
-#EXTINF:-1,FTV
-https://cdn-us-154.cloudrsst.com/live/ftv_540/playlist.m3u8?secret=69a4337d5d1ffcf4173040167ff90908&time=1671955991
-#EXTINF:-1,FTV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_259_A927E1D6.m3u8
-#EXTINF:-1,FTV
-https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch2/cmaf-hls/master.m3u8
-#EXTINF:-1,빌리어즈TV
-https://edge-th136.cloudrsst.com:443/live/billiardstv_540/playlist.m3u8?secret=cc4e5ad4bf994b2d1e3b9d586657652f&time=1685621670
-#EXTINF:-1,빌리어즈TV
-https://d2zve2l62bwzcf.cloudfront.net/h264/billiard/cmaf-hls/master.m3u8
+http://211.205.137.41:9981/stream/channelid/15?ticket=5273A350ABFCACD176F4EDDF3CE1E85AEB3A5CDD
+#EXTINF:-1,XtvN
+http://211.205.137.41:9981/stream/channelid/62?ticket=2374D70F6C6C56AA438EE40E2B1A197374D9AA16
+#EXTINF:-1,YTN
+http://211.205.137.41:9981/stream/channelid/47?ticket=E5DE1A1C161EE79CC33D2AE8B9144B0664568C27
+#EXTINF:-1,jTBC
+http://211.205.137.41:9981/stream/channelid/32?ticket=566D3524EB953747409264D022797EDCD008CA65
+#EXTINF:-1,tvN
+http://211.205.137.41:9981/stream/channelid/39?ticket=2B0E75C8BEE46267D760735ED238A967CBB38EDE
+#EXTINF:-1,tvN스토리
+http://211.205.137.41:9981/stream/channelid/4?ticket=C07B0655B57B38EC2A6DAF4A206756B04F2D6F37
+#EXTINF:-1,가야방송
+http://211.205.137.41:9981/stream/channelid/24?ticket=57C80B9023C2D7D4694743AFED29318703046F27
+#EXTINF:-1,공영쇼핑
+http://211.205.137.41:9981/stream/channelid/48?ticket=FBD2D190970C0FECE4491441EDFC5C42A046CA67
+#EXTINF:-1,공지채널
+http://211.205.137.41:9981/stream/channelid/63?ticket=3D557A24FB1B7F7182754987ECD6AFDEA0BBDC14
+#EXTINF:-1,국회TV
+http://211.205.137.41:9981/stream/channelid/44?ticket=76DC0F67C2A7E2B6D1AD9B37771C39F838EE8E88
+#EXTINF:-1,다큐원
+http://211.205.137.41:9981/stream/channelid/97?ticket=6EA766F38F2EDB5E5656694F3D47C0F8FD1ABE1F
+#EXTINF:-1,더드라마
+http://211.205.137.41:9981/stream/channelid/12?ticket=CCB45D2D9DD2BF2EA3CC69EEB51100EEA3A93BDF
+#EXTINF:-1,더라이프
+http://211.205.137.41:9981/stream/channelid/11?ticket=F77F349E81FFC77300AF28605AAFB22AFFB8228D
+#EXTINF:-1,드라마큐브
+http://211.205.137.41:9981/stream/channelid/101?ticket=A05DB40BCC625D2063388024E3F8A32C7B067461
+#EXTINF:-1,드라맥스
+http://211.205.137.41:9981/stream/channelid/38?ticket=B356A4C2160861D4579359716CAD71887127AE79
+#EXTINF:-1,롯데ONE T
+http://211.205.137.41:9981/stream/channelid/81?ticket=9BF12A4D45ACAF7DFD1BAD57686838752DCBC7D5
+#EXTINF:-1,롯데홈쇼핑
+http://211.205.137.41:9981/stream/channelid/26?ticket=46307D41BC4251D1F7AFF9DEED7A16E9EB45BCB6
 #EXTINF:-1,바둑TV
-http://tvbaduk-liveout-catenoid-net.akamaized.net/live-03-tvbaduk01/tvbaduk01_200k/playlist.m3u8
-#EXTINF:-1,바둑TV
-http://edge-th136.cloudrsst.com/live/baduk_540/playlist.m3u8?secret=5cc7834f3fcfb6538883c9826654e5a2&time=1685621667
-#EXTINF:-1,바둑TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_257_FC2C4AAD.m3u8
-#EXTINF:-1,바둑TV
-http://1.214.67.206/vod/68302.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;1280P;WIFI
-#EXTINF:-1,K바둑
-https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch1/cmaf-hls/master.m3u8
-#EXTINF:-1,브레인TV
-http://edge-th136.cloudrsst.com/live/brain_tv_540/playlist.m3u8?secret=16a5f04b9e274aed2b53c71d1d5478f3&time=1685624525
-#EXTINF:-1,브레인TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_258_9F2283BC.m3u8
-#EXTINF:-1,아프리카TV
-https://d2zve2l62bwzcf.cloudfront.net/h264/sp3ch3/cmaf-hls/master.m3u8
-#EXTINF:-1,볼링플러스
-https://d2zve2l62bwzcf.cloudfront.net/h264/bowling/cmaf-hls/master.m3u8
-#EXTINF:-1,스크린골프존
-http://211.170.95.22/vod/57802.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633;LTE;720P;WIFI
-#EXTINF:-1,스크린골프존
-http://ak-sigma.play.kakao.com/ef8a709a99ba5ba1/main/2/2.m3u8
-#EXTINF:-1,KBS Kids
-http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-#EXTINF:-1,KBS KIDS
-https://edge-th136.cloudrsst.com:443/live/kbs_kids_540/playlist.m3u8?secret=20195e79fd4ca44e6af2d9e2a43f68f2&time=1685622724
-#EXTINF:-1,EBS Kids
-http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS Kids
-https://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+http://211.205.137.41:9981/stream/channelid/54?ticket=7C4B962F8445C755B6719E003AB4E87BFC854CCA
+#EXTINF:-1,복지TV
+http://211.205.137.41:9981/stream/channelid/92?ticket=621A89ED0C64A5093F1E381B516754DC64E5DDE7
+#EXTINF:-1,부산 KBS1
+http://211.205.137.41:9981/stream/channelid/21?ticket=0EF2066211FE35EFBA98A45E4DA32D148523BCF4
+#EXTINF:-1,부산 KBS2
+http://211.205.137.41:9981/stream/channelid/20?ticket=3065873816ACF5E6D8E516B1D6D3731717F8DF44
+#EXTINF:-1,뷰
+http://211.205.137.41:9981/stream/channelid/80?ticket=A907032DB1338C677368CC30D719752E5584412E
+#EXTINF:-1,상생TV
+http://211.205.137.41:9981/stream/channelid/13?ticket=AEC6B008A4FC92BB59DC7C3FCA392A97C975A189
+#EXTINF:-1,쇼핑엔T
+http://211.205.137.41:9981/stream/channelid/27?ticket=6E9C45D50EBD5B6752DB7338BD02657AD37878A0
+#EXTINF:-1,스카이드라마
+http://211.205.137.41:9981/stream/channelid/91?ticket=A77585723D3F3BCF7D147CD6178035364B2BA054
+#EXTINF:-1,스카이엔터
+http://211.205.137.41:9981/stream/channelid/75?ticket=5F27870DF29B105B53199D749A7EFE137D904CDC
+#EXTINF:-1,스크린
+http://211.205.137.41:9981/stream/channelid/9?ticket=F4A5441EA6B9C693DDF343976F06CB5A2C35BCE4
+#EXTINF:-1,신세계쇼핑
+http://211.205.137.41:9981/stream/channelid/1?ticket=324F206B4D18401D09799DDD9E4189048A6DC625
+#EXTINF:-1,아리랑TV
+http://211.205.137.41:9981/stream/channelid/100?ticket=1E630A100429B5B895B9428C3FDAACD0FFD1CC5C
+#EXTINF:-1,아이넷
+http://211.205.137.41:9981/stream/channelid/68?ticket=EF0DEFA86E200ECB87412DFD93CC911FCA6F8F47
+#EXTINF:-1,연합뉴스TV
+http://211.205.137.41:9981/stream/channelid/46?ticket=F3F64F3833FB0653F2AEF1122926D21C55CDEF19
+#EXTINF:-1,온스타일
+http://211.205.137.41:9981/stream/channelid/5?ticket=A203DDE8ACFE4F9FCD5FFED33D3CAF3C7A1E8C61
+#EXTINF:-1,재능방송
+http://211.205.137.41:9981/stream/channelid/61?ticket=5E64A58A10CBCA32767274E710F45075E2FD55B0
+#EXTINF:-1,직업방송
+http://211.205.137.41:9981/stream/channelid/83?ticket=A0D6DBC2BCA63772317F271B9B434D457FDD4ADB
+#EXTINF:-1,채널 A
+http://211.205.137.41:9981/stream/channelid/40?ticket=236AE5C71E364D866B16199758C497D64BE3ECF8
+#EXTINF:-1,채널 J
+http://211.205.137.41:9981/stream/channelid/3?ticket=36848698061DB10785C9B7179AE5A254FAB5F7A2
+#EXTINF:-1,채널S
+http://211.205.137.41:9981/stream/channelid/55?ticket=42C2EBC8B5D6BBB173B1EFCCCC84A3CFC5891B3D
+#EXTINF:-1,채널차이나
+http://211.205.137.41:9981/stream/channelid/96?ticket=358A9E5B11DE220A44FCA35EC1D4BF8F8BD824A2
+#EXTINF:-1,채널칭
+http://211.205.137.41:9981/stream/channelid/51?ticket=A70BD7C4465BDFEDC14B4E61174704AA90D756C7
+#EXTINF:-1,챔프
+http://211.205.137.41:9981/stream/channelid/94?ticket=4DBE16F7AF5C93A407EB5E0FF974693E1B5E51C4
+#EXTINF:-1,코미디TV
+http://211.205.137.41:9981/stream/channelid/37?ticket=35A91ACC5B6F9F48A2AF7D71A85656524A67D2DA
 #EXTINF:-1,투니버스
-https://cdn-us-154.cloudrsst.com/live/tooniverse_540/playlist.m3u8?secret=c901b29664c93b0d0ce859284dedd21d&time=1671956277
-#EXTINF:-1,투니버스
-http://edge-th136.cloudrsst.com/live/tooniverse_540/playlist.m3u8?secret=73775ecfb37ca20f55627926f9064363&time=1685622727
-#EXTINF:-1,투니버스
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_221_8D4AEFCF.m3u8
-#EXTINF:-1,카툰네트워크
-https://cdn-us-154.cloudrsst.com/live/cartoon_network_540/playlist.m3u8?secret=6d7c9a0d751e9f6cb3ef4206668ae857&time=1671956682
-#EXTINF:-1,카툰네트워크
-http://edge-th136.cloudrsst.com/live/cartoon_network_540/playlist.m3u8?secret=2013e44f8106eff7807ff2f690864368&time=1685622846
-#EXTINF:-1,대교어린이TV
-http://edge-th136.cloudrsst.com/live/childrens_tv_540/playlist.m3u8?secret=677e058595dc7adc10369cb0b84daf56&time=1685622883
-#EXTINF:-1,재능TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_80.m3u8
-#EXTINF:-1,JEI 재능TV
-http://edge-th136.cloudrsst.com/live/jei_jenung_540/playlist.m3u8?secret=18be22c20a2e6352f526dbaed4a6a610&time=1685622710
-#EXTINF:-1,JEI잉크리쉬TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_79.m3u8
-#EXTINF:-1,뽀요TV
-https://edge-th136.cloudrsst.com:443/live/disney_channel_540/playlist.m3u8?secret=e24891d49cc03505290fbdd0decc957f&time=1685622721
-#EXTINF:-1,중화TV
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_232_E1E12CFB.m3u8
-#EXTINF:-1,중화TV
-https://cdn-us-154.cloudrsst.com/live/chinesetv_540/playlist.m3u8?secret=4bd053b9d0a8f5a2f97f4ed7edfe0531&time=1671956271
-#EXTINF:-1,중화TV
-http://edge-th136.cloudrsst.com/live/chinesetv_540/playlist.m3u8?secret=527fd81e3a9f370b10c3e23056cb3f5d&time=1685621658
-#EXTINF:-1,OCN
-https://cdn-us-154.cloudrsst.com/live/ocn_540/playlist.m3u8?secret=6aa41e7b71edd0f4f2d889f048e8006b&time=1671956069
-#EXTINF:-1,OCN
-http://gg.gg:80/Ha_Noi_IPTV_17-OCN-Phim_truyen_Hang_dau
-#EXTINF:-1,OCN
-http://edge-th136.cloudrsst.com/live/live/ocn_540/playlist.m3u8?secret=57ef835a886a662330d16cfde9724106&time=1685621373
-#EXTINF:-1,OCN
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_231_854E1959.m3u8
-#EXTINF:-1,OCN Movies
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_233_D2120105.m3u8
-#EXTINF:-1,OCN Movies
-https://cdn-us-154.cloudrsst.com/live/cgv_540/playlist.m3u8?secret=5409e0ff575a4e611d8c59bc85107862&time=1671956081
-#EXTINF:-1,OCN Movies
-http://edge-th136.cloudrsst.com/live/live/cgv_540/playlist.m3u8?secret=263d1b98c8c36f67ff0a020fa0cb8b89&time=1685621383
-#EXTINF:-1,OCN Movies2
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_234_673515AB.m3u8
-#EXTINF:-1,OCN Movies2
-https://cdn-us-154.cloudrsst.com/live/super_action_540/playlist.m3u8?secret=6765ff49662615e548aeffce3a978a5c&time=1671956072
-#EXTINF:-1,OCN Movies2
-http://edge-th136.cloudrsst.com/live/super_action_540/playlist.m3u8?secret=6ac095b88b3f8cb50ccc55475cdcadc8&time=1685621377
-#EXTINF:-1,아름방송
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_412.m3u8
-#EXTINF:-1,CCS 충북방송
-http://118.91.8.149:1935/OnAirEdge/OnAir/playlist.m3u8
-#EXTINF:-1,SCS 서경방송
-http://live.iscs.co.kr:1935/m_live/480p.stream/chunklist_w1805076787.m3u8
-#EXTINF:-1,JCN 울산중앙방송
-https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
-#EXTINF:-1,KCTV광주방송 CH05
-http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1,KCTV광주방송 CH21
-http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1,KCTV제주방송 채널7
-https://vod.kctvjeju.com/LIVE/ch7/playlist.m3u8
-#EXTINF:-1,KCTV제주방송 채널20
-https://vod.kctvjeju.com/ch7/ch4/playlist.m3u8
-#EXTINF:-1,딜라이브 경동케이블TV
-http://112.214.255.201/hls/ch02/playlist.m3u8
-#EXTINF:-1,딜라이브 경기케이블TV
-http://112.214.255.202/hls/ch02/playlist.m3u8
-#EXTINF:-1,BTV 서서울
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY73K0leecWipqdTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,BTV 동서울
-http://tbroad-233.live.wecandeo.com/live/3/228_high.m3u8
-#EXTINF:-1,BTV 인천
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY79Xnm3YFsPKUTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,BTV 수원
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY79303A2ZnFoXTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,BTV 한빛방송
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY76P1dipiiUMC4jTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,BTV ABC방송
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY7020bpZhvyiisTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,BTV 기남
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY74dJWCb8X4jsTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,BTV 중부
-http://tbroad-233.live.wecandeo.com/live/3/234_high.m3u8
-#EXTINF:-1,BTV 세종
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY75rqaip2AlSDu1MQzmLnU4jnXI9hzBOAsXrcjnzXTetOzSpoeGhM6xDf6JeisqXGARIoAFOJWjcgpCQwu9NUhbnyEhPzisipMy9K02eHiiUlTisvcW
-#EXTINF:-1,BTV 대구방송
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY78qMkYpzmTpcTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,BTV 대경방송
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY78qMkYpzmTpcTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,BTV TCN방송
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY78qMkYpzmTpcTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,BTV 부산
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY79YRNisOkzxw4TmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,BTV 전북
-http://api.wecandeo.com/live/default/castAll.m3u8?k=qrhwABaceg5AwipR4RMgY7wipfTRmXjGNPTmGxNEUisEXiiy8zPZAQLccUp2WiiheWZZa60e8bOR4eKJP2vbBiiQKeM113Uoisipml1gV9PkQWysGDpaMiiYZZlOotAieie
-#EXTINF:-1,HCN 서초방송
-http://edge3.hcnmobile.tv//etv/phd745/chunklist_w585054294.m3u8?%20Policy=eyJTdGFOZW1IbnQiOlt7lUlc291cmNIljoiaHROcDovL2VkZ2UzLmhjbm+1vYmlsZS50di9ldHYvcGhkNzc4L3BsYXlsa+XNOLm0zdTgiLCJDb25kaXRpb24iOnsiRGFOZUxlc3NUaGFuljp7ikFXUzpFcG9jaFRpbWUiOjE2Mjk20DYOMDh9X1dfQ_+-&Signature=UVGV1JG2SVxLefHUTSiFamnilwaTQGsXFfr5gtAwQ-OWKbAnXMtgDosDx15r034p4VpexO6LK4axQY%5D+1+AB5piRGEDFn3zVISOIUI87zyEwTaqG7ncOk-n9xD1KVodGu2yk+5C4Aq43bFOWZrPAikJUrZ7142zWOyxmelhLRwcH8bwVxvZH%5D39gTMyBTRSoe9EnuhYUU3Uom84APZxvexKXmoDruOE+ih6LOitMBTEKjsfNxZ62QHRLDRQUBPhyllxWTVC8SSdwLTMvaPGohHCLPehE36aTKjEka8djr%2FOJLP7Y-+V13UIH6-OcurSnan-MzSLDk6bx01kJBe6705wYMw-&Key-Pair-ld-APKAJDDOC33A6l654PKA
-#EXTINF:-1,HCN 동작방송
-http://edge4.hcnmobile.tv/etv/phd1397/chunklist_w532555429.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2VkZ2U0Lmhjbm1vYmlsZS50di9ldHYvcGhkMTM5Ny9wbGF5bGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQyNDg0NTAxfX19XX0_&Signature=FIdPYrIcbKkCbB%7Eoqh5KBOlhPqumaChm-nr-Bvh9%7EEwP4Jf5NVbPX2oTWDYU2btv2XpJilQUjo2irVgEV9Fh8jQizMZlBu79Hpwm0tfEIjRnjpGbfFNHxlQOhITSr-F5OlUlOxcmy8QFHEhDwcbBN%7EHmzHmVriB%7EKHN8TytTaJXUYXTSSqi%7EikQWPWwg9Y9Dv54YnqpOeJNDSHaKkEfufg25zcshPSknPTmGPz5AXBq8TgDR1n7GSiqsyac6MYcSR9gFgQX3XnsKXx160RW5Xi0vyEulrzldeLlaTmEW5zmHVJeX1kEtx0ZnXUYenL6qpeyB6lRbL0oJo-riBa%7Enrg__&Key-Pair-Id=APKAJDDOC33A6I654PKA
-#EXTINF:-1,HCN 관악방송
-http://edge4.hcnmobile.tv/etv/phd1399/chunklist_w1062628074.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2VkZ2U0Lmhjbm1vYmlsZS50di9ldHYvcGhkMTM5OS9wbGF5bGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjQyNDg0NTQyfX19XX0_&Signature=Jcr4z5%7EcLUY8kZcPP9cAi0nFLfA6wlYJX1bY%7EdAoHOmoIOjTeGFq76bv-NDu9eM7v%7E2t7jC5LqYiMa6zBm7RxEl-dYJXA620Te3X2q%7EBv5vI7SXk1L6x5m9y%7EEsvDaVMw3sCUgrxJpRm16IWhJD8BLvk38J-wGy7spkzB0DzurI9cNUtXPBaq7OYa%7Ec7aIYB3RRcsa02pv23Kc4GyOf6lHhwgqbdB33SXA3k48HNKnXE4u4fr7oJYudkUVfxkREIklj4lEoBEuRuMHxF1GyYwedQUUS9aig0nCOn00Lmi%7EWeB%7E72MSe%7EZ-aCtAw2iIVh0XVLxCus%7E52Oh9peGPGCHA__&Key-Pair-Id=APKAJDDOC33A6I654PKA
-#EXTINF:-1,HCN 충북방송
-http://edge3.hcnmobile.tv/etv/phddmcchungbuk/playlist.m3u8
-#EXTINF:-1,HCN 금호방송
-http://edge3.hcnmobile.tv//etv/phddmckumho/playlist.m3u8
-#EXTINF:-1,HCN 새로넷방송
-http://edge3.hcnmobile.tv/etv/phddmcsaronet/playlist.m3u8
-#EXTINF:-1,HCN 경북방송
-http://edge4.hcnmobile.tv/etv/phddmckyunngbuk/playlist.m3u8
-#EXTINF:-1,HCN 부산방송
-http://edge4.hcnmobile.tv/etv/phddmcbusan/playlist.m3u8
-#EXTINF:-1,CMB 대전방송
-http://124.195.190.134:1935/rtplive/cmb5240.stream/master.m3u8
-#EXTINF:-1,CMB 광주방송
-http://124.195.190.134:1935/rtplive/cmb6240.stream/playlist.m3u8
-#EXTINF:-1,ABN 아름방송
-http://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1,NIB 남인천방송
-http://stream.nibtv.co.kr:1935/live/nib/playlist.m3u8
-#EXTINF:-1,SCS 서경방송
-http://live.iscs.co.kr:1935/m_live/480p.stream/chunklist_w1805076787.m3u8
-#EXTINF:-1,KCTV 광주방송
-http://119.77.96.184:1935/chn05/chn05/chunklist_w230324711.m3u8
-#EXTINF:-1,KCTV 광주방송 직사채널
-http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1,KCN 금강방송
-http://62db982017b54.streamlock.net:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1,KCTV 제주방송
-https://vod.kctvjeju.com/LIVE/ch7/chunklist_w1376570500.m3u8
-#EXTINF:-1,KCTV N
-https://vod.kctvjeju.com/ch7/ch4/chunklist_w1916373722.m3u8
-#EXTINF:-1,지니TV 가이드
-https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,NGC
-http://edge-th136.cloudrsst.com/live/national_540/playlist.m3u8?secret=2d62b284a2c2a8caeccdba88501d4979&time=1685621769
-#EXTINF:-1,내지오와일드
-http://edge-th136.cloudrsst.com/live/nat_geo_wild_540/playlist.m3u8?secret=0230c851c161c808eee9727b198016a4&time=1685624354
+http://211.205.137.41:9981/stream/channelid/65?ticket=E03F1569E44483737E9CF16A20E47B3791480C8D
+#EXTINF:-1,평화방송
+http://211.205.137.41:9981/stream/channelid/76?ticket=87D8906F8208ECE8298C431187FA3167311495D0
+#EXTINF:-1,하이라이트TV
+http://211.205.137.41:9981/stream/channelid/56?ticket=5FC3B338868EB49FB7A758082BCE1FDD9960F4FA
+#EXTINF:-1,한국경제TV
+http://211.205.137.41:9981/stream/channelid/90?ticket=F46C30A903F06A092321800338AE09C8617A3868
+#EXTINF:-1,현대홈쇼핑
+http://211.205.137.41:9981/stream/channelid/35?ticket=13DA840B1FB3CCB5318EFEB1DEB9B1C773C51F65
+#EXTINF:-1,현대홈쇼핑+샵
+http://211.205.137.41:9981/stream/channelid/78?ticket=9B03D36820FD02ED0EE928209687D4D19F91BD50
+#EXTINF:-1,홈앤쇼핑
+http://211.205.137.41:9981/stream/channelid/33?ticket=EBE8547DFCDC3DF36F667E3EC4CAAE1A4DCAC856
