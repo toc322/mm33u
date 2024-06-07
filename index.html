@@ -1,32 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>IPTV M3U 링크 목록</title>
-<script>
-  window.onload = function() {
-    var links = document.getElementsByTagName('a');
-    for (var i = 0; i < links.length; i++) {
-      var link = links[i].href;
-      if (link.endsWith('.m3u')) {
-        links[i].setAttribute('href', 'javascript:void(0)');
-        links[i].addEventListener('click', function(event) {
-          event.preventDefault();
-          var m3uLink = this.href;
-          // 여기에 M3U 링크를 처리하는 코드를 추가하세요.
-          alert('다운로드 또는 재생: ' + m3uLink);
-        });
-      }
-    }
-  };
-</script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #fff;
+            margin: 0 10px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .post {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .post h2 {
+            color: #333;
+        }
+        .post p {
+            color: #666;
+        }
+    </style>
 </head>
 <body>
-  <h1>IPTV M3U 링크 목록</h1>
-  <ul>
-    <li><a href="http://ah02.modhospital.kr:9981/playlist/channels">플레이리스트 1</a></li>
-    <!-- 필요한 만큼 목록 항목을 추가할 수 있습니다. -->
-  </ul>
+    <header>
+        <h1>Welcome to My Blog</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+    <div class="container">
+        <div class="post">
+            <h2>Post Title</h2>
+            <p>This is a sample blog post. You can add your content here.</p>
+        </div>
+        <div class="post">
+            <h2>Another Post Title</h2>
+            <p>This is another sample blog post. Feel free to add more posts.</p>
+        </div>
+    </div>
 </body>
 </html>
