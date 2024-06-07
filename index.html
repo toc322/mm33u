@@ -1,11 +1,32 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-<title> Always M3u </title>
-<script language="javascript">
-location.href="http://ah02.modhospital.kr:9981/playlist/channels";
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IPTV M3U 링크 목록</title>
+<script>
+  window.onload = function() {
+    var links = document.getElementsByTagName('a');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i].href;
+      if (link.endsWith('.m3u')) {
+        links[i].setAttribute('href', 'javascript:void(0)');
+        links[i].addEventListener('click', function(event) {
+          event.preventDefault();
+          var m3uLink = this.href;
+          // 여기에 M3U 링크를 처리하는 코드를 추가하세요.
+          alert('다운로드 또는 재생: ' + m3uLink);
+        });
+      }
+    }
+  };
 </script>
 </head>
+<body>
+  <h1>IPTV M3U 링크 목록</h1>
+  <ul>
+    <li><a href="http://ah02.modhospital.kr:9981/playlist/channels">플레이리스트 1</a></li>
+    <!-- 필요한 만큼 목록 항목을 추가할 수 있습니다. -->
+  </ul>
+</body>
 </html>
-
-
