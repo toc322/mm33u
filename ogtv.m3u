@@ -1,8 +1,4 @@
 #EXTM3U8
-#EXTINF:-1 tvg-logo="https://365tvda.com/plugin/livetv/img/channel/1.png",SBS Golf
-https://stream.ogtv3.com/live/live1001.m3u8
-#EXTINF:-1 tvg-logo="https://365tvda.com/plugin/livetv/img/channel/2.png",JTBC Golf
-https://stream.ogtv3.com/live/live1002.m3u8
 #EXTINF:-1 tvg-logo="https://365tvda.com/plugin/livetv/img/channel/3.png",MBC
 https://stream.ogtv3.com/live/live1003.m3u8
 #EXTINF:-1 tvg-logo="https://365tvda.com/plugin/livetv/img/channel/4.png",KBS1
@@ -39,6 +35,10 @@ https://stream.ogtv3.com/live/live1026.m3u8
 https://stream.ogtv3.com/live/live1027.m3u8
 #EXTINF:-1 tvg-logo="https://365tvda.com/plugin/livetv/img/channel/22.png",시네마천국​
 https://stream.ogtv3.com/live/live1022.m3u8
+#EXTINF:-1 tvg-logo="https://365tvda.com/plugin/livetv/img/channel/1.png",SBS Golf
+https://stream.ogtv3.com/live/live1001.m3u8
+#EXTINF:-1 tvg-logo="https://365tvda.com/plugin/livetv/img/channel/2.png",JTBC Golf
+https://stream.ogtv3.com/live/live1002.m3u8
 #EXTINF:-1 tvg-logo="https://365tvda.com/plugin/livetv/img/channel/23.png",JTBC GOLF&SPORTS
 https://stream.ogtv3.com/live/live1023.m3u8
 #EXTINF:-1 tvg-logo="https://365tvda.com/plugin/livetv/img/channel/24.png",SBS Golf2
