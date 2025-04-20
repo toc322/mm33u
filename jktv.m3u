@@ -1,6 +1,6 @@
 #EXTM3U8
 #EXTINF:-1,tvN
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=7ShO5pdx6qZfpHlGmEfTN5B4uZjDTHh5VGBEB9jZ&secret=3e346c2d333f3ee2c6e6e6564e20b745&time=1742501727
+https://live-114.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=yJnE5dTJPdlATXELe1ZFn0a0EhtVWdItqnejj7YY&secret=9e117057ff9fa7fcf3c278b773e55c89&time=1745187224
 #EXTINF:-1,KBS1
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
 #EXTINF:-1,KBS2
@@ -32,7 +32,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O
 #EXTINF:-1,뉴스Y
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=newsy_540&sid=DzpUFHjcsBWVT59UIekH9Ru1NlsNITdMENCIwOYj&secret=627df873aaaabccbbfacb5cf54826ff2&time=1742500601
 #EXTINF:-1,tvN Sports
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=1t86TZJFPZlUGRsZtf6hKtiACMlOpIOMIOXHZQCC&secret=6d2a3daba14e4b18a09426c6695ab206&time=1742502545
+https://live-114.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=snlMwdDyEvILo7lgi3Z5tZJgoRW2NxF4DmRpifGg&secret=ffd4cc2459ecef8f132258e71e397162&time=1745187276
 #EXTINF:-1,KBSNSPORTS
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=2d4lU588IfghL2opd7HM63yE2wS8H52ARHw5HXRQ&secret=2352918e6d64f698127757fa594e1ff4&time=1742500742
 #EXTINF:-1,MBC SPORTS
@@ -42,9 +42,9 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=
 #EXTINF:-1,SBS SPORTS
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=XMv6aPlBrU1o23QTwnURWnfHoRT7hOQ8nwH7wK9H&secret=849647c33502f9f8d1a1d67e20719008&time=1742501076
 #EXTINF:-1,SBS GOLF
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=XsKzqGkpDUmFmWuyIxsfyvVRJ4mMF6hKDilRFzUt&secret=b636e43843bdb115334396d210244321&time=1742499186
+https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=dSiL8snhWLBSxgMrdde29keoesdXq7JqYoo8mFcL&secret=bbde0e71fad0fca7d433ed9cc50f7c83&time=1745186535
 #EXTINF:-1,JTBC GOLF
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=cyNOJfMG4XdPSNZgelsX20LO6JIswmwBogQuhi5w&secret=c3387bb24ccfdd0e6ff593ba600ab7ca&time=1742501236
+https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=r8AZTAG72mGrz1hCr2xTtUti2e6SMTbVdZJH7v36&secret=e702704fe23431ad423f3542974f526a&time=1745187110
 #EXTINF:-1,JTBC GOLF&SPORTS
 https://stream.ogtv3.com/live/live1023.m3u8
 #EXTINF:-1,SBS Golf2
