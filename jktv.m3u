@@ -51,6 +51,8 @@ https://stream.ogtv3.com/live/live1023.m3u8
 https://stream.ogtv3.com/live/live1024.m3u8
 #EXTINF:-1,SPOTV Golf&Health
 https://stream.ogtv3.com/live/live1025.m3u8
+#EXTINF:-1,PGA Tour
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
 #EXTINF:-1,SPOTV
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_540&sid=w9sTaDbkcNRJ1Op6LvowKsB9qiIwEXaLK6jQmc9a&secret=700a37478a2572879ff8a64e7e43faa9&time=1742501358
 #EXTINF:-1,SPOTV2
