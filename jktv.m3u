@@ -67,6 +67,8 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_on_540&sid=kh
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=dhbSSmqXjzcAIi6TV9nwpPQYU97Q5dFXLAFrT4EA&secret=7b49ace0e217934036273cc10a61f817&time=1742501837
 #EXTINF:-1,IB SPORTS
 https://stream.ogtv2.com/live/live1029.m3u8
+#EXTINF:-1,스크린골프존
+https://livecloud-slit.pstatic.net/navertv/kr/entry/djEuMCYmRU5UUlkmJmQwNDQ4NzhlLTFkNGItNGFmMi1iOWViLTliY2Y2ODQwYzk0MyYmMjAzOTAzMCYmODM2NDAyMyYmMjAzOTAzMDgzNjQwMjNEMCYmZg/playlist.m3u8?hdnts=st=1745255088~exp=1745287498~acl=*/entry/*~hmac=73bcd9fb6732ddd05bb5ade50dbcdd83150a93055119817feab184fe48677bdc
 #EXTINF:-1,OGN starleague
 https://55f887befec549d2afddb0b28715cfd9.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rsz07gqditpfv/7c517435-53ef-4ec4-92ad-dab4e3999f1e/2.m3u8
 #EXTINF:-1,tvN Show
