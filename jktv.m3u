@@ -26,7 +26,7 @@ https://7f64fcad72b448b0abf2ed97158dbb3e.mediatailor.ap-northeast-2.amazonaws.co
 #EXTINF:-1,PLAYY Hot
 https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/e6a94d5d-e454-4065-96cb-5db3aeec3c41/1.m3u8
 #EXTINF:-1,더무비
-https://stream.ogtv3.com/live/live1027.m3u8
+https://stream.ogtv2.com/live/live1027.m3u8
 #EXTINF:-1,YTN
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
 #EXTINF:-1,뉴스Y
@@ -48,9 +48,9 @@ https://live-114.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=MCpA9NEW
 #EXTINF:-1,JTBC GOLF&SPORTS
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 #EXTINF:-1,SBS Golf2
-https://stream.ogtv3.com/live/live1024.m3u8
+https://stream.ogtv2.com/live/live1024.m3u8
 #EXTINF:-1,SPOTV Golf&Health
-https://stream.ogtv3.com/live/live1025.m3u8
+https://stream.ogtv2.com/live/live1025.m3u8
 #EXTINF:-1,PGA Tour
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
 #EXTINF:-1,SPOTV
@@ -66,7 +66,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_on_540&sid=kh
 #EXTINF:-1,BilliardsTV
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=dhbSSmqXjzcAIi6TV9nwpPQYU97Q5dFXLAFrT4EA&secret=7b49ace0e217934036273cc10a61f817&time=1742501837
 #EXTINF:-1,IB SPORTS
-https://stream.ogtv3.com/live/live1029.m3u8
+https://stream.ogtv2.com/live/live1029.m3u8
 #EXTINF:-1,OGN starleague
 https://55f887befec549d2afddb0b28715cfd9.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rsz07gqditpfv/7c517435-53ef-4ec4-92ad-dab4e3999f1e/2.m3u8
 #EXTINF:-1,tvN Show
@@ -80,11 +80,11 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=sy
 #EXTINF:-1,Channel E
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
 #EXTINF:-1,tvN STORY
-https://stream.ogtv3.com/live/live1018.m3u8
+https://stream.ogtv2.com/live/live1018.m3u8
 #EXTINF:-1,ENA DRAMA
-https://stream.ogtv3.com/live/live1019.m3u8
+https://stream.ogtv2.com/live/live1019.m3u8
 #EXTINF:-1,tvN DRAMA
-https://stream.ogtv3.com/live/live1020.m3u8
+https://stream.ogtv2.com/live/live1020.m3u8
 #EXTINF:-1,KBS Drama
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_drama_540&sid=q3B5WSCH4URY8GiHOmAi4YrNVPWKot9vVlo9Vif3&secret=af52b1a2db7f1a11eee422a86931dfa4&time=1742559860
 #EXTINF:-1,코메디TV
