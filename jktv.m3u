@@ -21,10 +21,10 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=QtQBylJ
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=Lp0efv0hRiVjwLKCtb0qDKZW586UTvPRfi1KZWmp&secret=fff77ea7e1462447de7e4cb0e0ba0234&time=1742502199
 #EXTINF:-1,OCN Movies2
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
-#EXTINF:-1,시네마천국​
-https://stream.ogtv3.com/live/live1022.m3u8
-#EXTINF:-1,SCREEN
-https://stream.ogtv3.com/live/live1026.m3u8
+#EXTINF:-1,PLAYY Best
+https://7f64fcad72b448b0abf2ed97158dbb3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-15psa9qvune5y/b857cfec-192e-4d9e-97a6-77756ffeafad/1.m3u8
+#EXTINF:-1,PLAYY Hot
+https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/e6a94d5d-e454-4065-96cb-5db3aeec3c41/1.m3u8
 #EXTINF:-1,더무비
 https://stream.ogtv3.com/live/live1027.m3u8
 #EXTINF:-1,YTN
@@ -46,7 +46,7 @@ https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=dSiL8snhW
 #EXTINF:-1,JTBC GOLF
 https://live-114.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=MCpA9NEWPDXxoqzwzHjoIw5cyNMyssY5gsRVjQ4v&secret=b26df6dbb2836e6fbeabf35ce0137327&time=1745187472
 #EXTINF:-1,JTBC GOLF&SPORTS
-https://stream.ogtv3.com/live/live1023.m3u8
+http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 #EXTINF:-1,SBS Golf2
 https://stream.ogtv3.com/live/live1024.m3u8
 #EXTINF:-1,SPOTV Golf&Health
@@ -67,6 +67,8 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_on_540&sid=kh
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=dhbSSmqXjzcAIi6TV9nwpPQYU97Q5dFXLAFrT4EA&secret=7b49ace0e217934036273cc10a61f817&time=1742501837
 #EXTINF:-1,IB SPORTS
 https://stream.ogtv3.com/live/live1029.m3u8
+#EXTINF:-1,OGN starleague
+https://55f887befec549d2afddb0b28715cfd9.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rsz07gqditpfv/7c517435-53ef-4ec4-92ad-dab4e3999f1e/2.m3u8
 #EXTINF:-1,tvN Show
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=wR1QTGj0fFaQn3wBtsFhhWN7UA41PTwJyTbKntvU&secret=af9e9bbf95a8071899bdee00d178ffbf&time=1742502367
 #EXTINF:-1,ENA
