@@ -44,7 +44,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=
 #EXTINF:-1,SBS GOLF
 https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=dSiL8snhWLBSxgMrdde29keoesdXq7JqYoo8mFcL&secret=bbde0e71fad0fca7d433ed9cc50f7c83&time=1745186535
 #EXTINF:-1,JTBC GOLF
-https://live-114.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=MCpA9NEWPDXxoqzwzHjoIw5cyNMyssY5gsRVjQ4v&secret=b26df6dbb2836e6fbeabf35ce0137327&time=1745187472
+http://211.110.63.98/jtbcgolf1/_definst_/8C4A78EB4291B2BA8795B9AF907E8A9B28DBF956ADF0AB46A0C5E48207BC8773/chunklist_w1885910863.m3u8
 #EXTINF:-1,JTBC GOLF&SPORTS
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 #EXTINF:-1,SBS Golf2
@@ -54,7 +54,7 @@ https://stream.ogtv2.com/live/live1025.m3u8
 #EXTINF:-1,PGA Tour
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
 #EXTINF:-1,CNBC golf
-https://tvpass.org/live/GolfChannel/hd
+https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1,JTBC3
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
 #EXTINF:-1,SPOTV
