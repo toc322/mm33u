@@ -17,16 +17,16 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=0wonn
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=ueRIPcU1CmpLxvesJU3p3VVgAfWDA7Gq6Ok1SwdS&secret=7e0fd7ca14ec47bd96aca368dade12a4&time=1742499897
 #EXTINF:-1,OCN
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=QtQBylJvJQcdJTyPvSmkcyTaTQnDW18QPLxRm916&secret=f3749b2fa5a52bd49d01c9201e341d7f&time=1745187689
-#EXTINF:-1,OCN Movies
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=Lp0efv0hRiVjwLKCtb0qDKZW586UTvPRfi1KZWmp&secret=fff77ea7e1462447de7e4cb0e0ba0234&time=1742502199
-#EXTINF:-1,OCN Movies2
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
-#EXTINF:-1,PLAYY Best
-https://7f64fcad72b448b0abf2ed97158dbb3e.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-15psa9qvune5y/b857cfec-192e-4d9e-97a6-77756ffeafad/1.m3u8
+##EXTINF:-1,OCN Movies
+#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=Lp0efv0hRiVjwLKCtb0qDKZW586UTvPRfi1KZWmp&secret=fff77ea7e1462447de7e4cb0e0ba0234&time=1742502199
+##EXTINF:-1,OCN Movies2
+#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
+#EXTINF:-1,CJ ENM Movie
+https://pip-hlslive-sstv-xcdn.pip.cjenm.com/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8
 #EXTINF:-1,PLAYY Hot
 https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/e6a94d5d-e454-4065-96cb-5db3aeec3c41/1.m3u8
-#EXTINF:-1,더무비
-https://stream.ogtv2.com/live/live1027.m3u8
+##EXTINF:-1,더무비
+#https://stream.ogtv2.com/live/live1027.m3u8
 #EXTINF:-1,YTN
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
 #EXTINF:-1,뉴스Y
