@@ -6,9 +6,9 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD
 #EXTINF:-1,KBS2
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=nGwIH0XSiD8i6BgNlw1BzsZ9ZkNGavHRb7KWRaUB&secret=24378334b2628dc756899977221fbe37&time=1742499579
 #EXTINF:-1,MBC
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_540&sid=cYv0MwcyxtgbkvkdS30WL46OlWzp3kWCZFidZJGK&secret=e621dd2e826c29c6b98bd22932c77424&time=1742499690
+https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=jBKN7JC7660FJp2FfefGrbsJDv43CYc9ahfwHmXR&secret=d726f004a0d265b29d523d1a1bb8ec8d&time=1746540670
 #EXTINF:-1,SBS
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=CK45nVecsqumJABGLWQSH9lLnJLYCsrHqRYvh8yT&secret=c924444c2e10e6a9d11fd26170a3f60c&time=1742499811
+https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=lGlTFf4S95lRTjPrZcuCstR2Ey8UyZJhVpaG2eX6&secret=83db1cc1101b00c5e2a2f725d138f818&time=1746540959
 #EXTINF:-1,EBS1
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=hYnLduDv8nt54u8V33fzOzX2965Hpw5riMGhlJ3R&secret=49acbb73b9d018958342b304a2c5c7f4&time=1742556411
 #EXTINF:-1,EBS2
