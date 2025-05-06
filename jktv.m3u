@@ -16,7 +16,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=0wonn
 #EXTINF:-1,JTBC
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=ueRIPcU1CmpLxvesJU3p3VVgAfWDA7Gq6Ok1SwdS&secret=7e0fd7ca14ec47bd96aca368dade12a4&time=1742499897
 #EXTINF:-1,OCN
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=QtQBylJvJQcdJTyPvSmkcyTaTQnDW18QPLxRm916&secret=f3749b2fa5a52bd49d01c9201e341d7f&time=1745187689
+https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=bml1kyBERnhjkCBPgvL4fxe7SUE8s8Pgsxeq5sbU&secret=3d57867c606f7c514f9a0316a12b194e&time=1746545686
 #EXTINF:-1,OCN Movies
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=Lp0efv0hRiVjwLKCtb0qDKZW586UTvPRfi1KZWmp&secret=fff77ea7e1462447de7e4cb0e0ba0234&time=1742502199
 #EXTINF:-1,OCN Movies2
@@ -42,7 +42,7 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=
 #EXTINF:-1,SBS SPORTS
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=XMv6aPlBrU1o23QTwnURWnfHoRT7hOQ8nwH7wK9H&secret=849647c33502f9f8d1a1d67e20719008&time=1742501076
 #EXTINF:-1,SBS GOLF
-https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=dSiL8snhWLBSxgMrdde29keoesdXq7JqYoo8mFcL&secret=bbde0e71fad0fca7d433ed9cc50f7c83&time=1745186535
+https://live-edge-th136.myjktv.com/playlist/live.m3u8?sid=8Fy7eNaI6me55SB80O5vJKYK9KnKYTLoxzXrSm77&secret=3a78c925c2fbd693cda34791c5487494&time=1746545589
 #EXTINF:-1,JTBC GOLF
 http://211.110.63.98/jtbcgolf1/_definst_/8C4A78EB4291B2BA8795B9AF907E8A9B28DBF956ADF0AB46A0C5E48207BC8773/chunklist_w1885910863.m3u8
 #EXTINF:-1,JTBC GOLF&SPORTS
