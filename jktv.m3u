@@ -67,8 +67,8 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_on_540&sid=khuvDUGA5oq5SVN9qUTdlNpFKsr85NI7poL0OHU7&secret=4b9ae05ec416ae0275d3cee4511e7f7b&time=1742501659
 #EXTINF:-1,BilliardsTV
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=dhbSSmqXjzcAIi6TV9nwpPQYU97Q5dFXLAFrT4EA&secret=7b49ace0e217934036273cc10a61f817&time=1742501837
-#EXTINF:-1,IB SPORTS
-https://stream.ogtv2.com/live/live1029.m3u8
+##EXTINF:-1,IB SPORTS
+#https://stream.ogtv2.com/live/live1029.m3u8
 #EXTINF:-1,OGN starleague
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=ogn%EC%8A%A4%ED%83%80%EB%A6%AC%EA%B7%B8&channel_id=newid_026&apikey=b97c7a7d0c82424bb607e141ef215779&auth=1806919a-8fba7469-7c0f864a-55096e5f&ads.live=[CONTENT_LIVE]&ads.device_did=%7BPSID%7D&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.app.name=%7BAPP_NAME%7D&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.content_title=[PROGRAM_TITLE]&ads.content_series=[SERIES_TITLE]&ads.content_season=[SEASON_TITLE]&ads.content_episode=[EPISODE_NO]&ads.content_length=[CONTENT_LENGTH]&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&nh=true&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=KRBC3200005SH
 #EXTINF:-1,tvN Show
@@ -81,12 +81,12 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
 #EXTINF:-1,Channel E
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
-#EXTINF:-1,tvN STORY
-https://stream.ogtv2.com/live/live1018.m3u8
-#EXTINF:-1,ENA DRAMA
-https://stream.ogtv2.com/live/live1019.m3u8
-#EXTINF:-1,tvN DRAMA
-https://stream.ogtv2.com/live/live1020.m3u8
+##EXTINF:-1,tvN STORY
+#https://stream.ogtv2.com/live/live1018.m3u8
+##EXTINF:-1,ENA DRAMA
+#https://stream.ogtv2.com/live/live1019.m3u8
+##EXTINF:-1,tvN DRAMA
+#https://stream.ogtv2.com/live/live1020.m3u8
 #EXTINF:-1,KBS Drama
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_drama_540&sid=q3B5WSCH4URY8GiHOmAi4YrNVPWKot9vVlo9Vif3&secret=af52b1a2db7f1a11eee422a86931dfa4&time=1742559860
 #EXTINF:-1,코메디TV
