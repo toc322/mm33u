@@ -23,8 +23,10 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=ITjFbSe
 #EXTINF:-1,OCN Movies2
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
 #EXTINF:-1,CJ ENM Movie
-https://pip-hlslive-sstv-xcdn.pip.cjenm.com/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8
-##EXTINF:-1,PLAYY Hot
+https://jmp2.uk/sam-KRBC32000191N.m3u8
+#https://pip-hlslive-sstv-xcdn.pip.cjenm.com/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8
+#EXTINF:-1,PLAYY
+https://jmp2.uk/sam-KR12000017G.m3u8
 #https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/e6a94d5d-e454-4065-96cb-5db3aeec3c41/1.m3u8
 ##EXTINF:-1,더무비
 #https://stream.ogtv2.com/live/live1027.m3u8
