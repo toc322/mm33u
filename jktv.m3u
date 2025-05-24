@@ -1,7 +1,7 @@
 #EXTM3U8
 #EXTINF:-1,tvN
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=8Neso11HboGsckMnkXhZO5OQooX8FjkJGh3JNyhN&secret=9968228025ba44af1c1ed3e5ef93498e&time=1745188012
-##https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=oj1ssh7rr7bDqtSgQhIXTXPy1bKEQgYoGEtUDiL8&secret=214fb7e602c0dc5fbc45f46927cd140d&time=1748048055
+##https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=8Neso11HboGsckMnkXhZO5OQooX8FjkJGh3JNyhN&secret=9968228025ba44af1c1ed3e5ef93498e&time=1745188012
 #EXTINF:-1,KBS1
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
 #EXTINF:-1,KBS2
