@@ -82,7 +82,8 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=wR1QTGj
 #EXTINF:-1,ENA
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_joy_540&sid=tLqu4O06OBUd42Bf6pQzEj5iFGeblET7JuLcQfc7&secret=9b1bada69fe289f71ac1e24e8376b857&time=1742501919
 #EXTINF:-1,MBC every1
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
+https://live2.mbcmpp.co.kr/etc2/_definst_/every1/chunklist_w1526537521.m3u8
+#https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 #EXTINF:-1,SBS Plus
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
 #EXTINF:-1,Channel E
