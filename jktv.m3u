@@ -88,8 +88,8 @@ https://live2.mbcmpp.co.kr/etc2/_definst_/every1/chunklist_w1526537521.m3u8
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
 #EXTINF:-1,Channel E
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
-#EXTINF:-1,tvN STORY
-https://jmp2.uk/sam-KRBC3200014XZ.m3u8
+##EXTINF:-1,tvN STORY
+#https://jmp2.uk/sam-KRBC3200014XZ.m3u8
 ##EXTINF:-1,ENA DRAMA
 #https://stream.ogtv2.com/live/live1019.m3u8
 ##EXTINF:-1,tvN DRAMA
