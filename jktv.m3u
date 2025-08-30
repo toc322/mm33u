@@ -52,7 +52,8 @@ http://211.110.63.98/jtbcgolf1/_definst_/8C4A78EB4291B2BA8795B9AF907E8A9B28DBF95
 #https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=jtbc%EA%B3%A8%ED%94%84-sll&channel_id=newid_186&mpf=eec738cc-39af1962-156fbea7&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9df66c43-bafcde1a-7fa38277-19be2399&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1,JTBC GOLF&SPORTS
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
-##EXTINF:-1,SBS Golf2
+#EXTINF:-1,SBS Golf2
+http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTY1OTYwNzEsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiN2VlZWMyNjAtZDk0YS00NzI1LWE4ZjgtNmZkNmIxMWYyN2Q0IiwiaWF0IjoxNzU2NTg4ODcxfQ.MCLW98lL-t_g_nOAkK-4bHlE3l1G_o9jEQc0OEh3mhY
 #https://stream.ogtv2.com/live/live1024.m3u8
 #EXTINF:-1,SPOTV Golf&Health
 https://stream.ogtv2.com/live/live1025.m3u8
