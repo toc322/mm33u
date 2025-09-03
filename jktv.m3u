@@ -56,8 +56,8 @@ http://211.110.63.98/jtbcgolf1/_definst_/8C4A78EB4291B2BA8795B9AF907E8A9B28DBF95
 #https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=jtbc%EA%B3%A8%ED%94%84-sll&channel_id=newid_186&mpf=eec738cc-39af1962-156fbea7&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9df66c43-bafcde1a-7fa38277-19be2399&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1,JTBC GOLF&SPORTS
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
-#EXTINF:-1,SBS Golf2
-http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTY1OTYwNzEsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiN2VlZWMyNjAtZDk0YS00NzI1LWE4ZjgtNmZkNmIxMWYyN2Q0IiwiaWF0IjoxNzU2NTg4ODcxfQ.MCLW98lL-t_g_nOAkK-4bHlE3l1G_o9jEQc0OEh3mhY
+##EXTINF:-1,SBS Golf2
+#http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTY1OTYwNzEsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiN2VlZWMyNjAtZDk0YS00NzI1LWE4ZjgtNmZkNmIxMWYyN2Q0IiwiaWF0IjoxNzU2NTg4ODcxfQ.MCLW98lL-t_g_nOAkK-4bHlE3l1G_o9jEQc0OEh3mhY
 #https://stream.ogtv2.com/live/live1024.m3u8
 #EXTINF:-1,SPOTV Golf&Health
 https://stream.ogtv2.com/live/live1025.m3u8
@@ -84,9 +84,11 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
 #EXTINF:-1,OGN starleague
 https://jmp2.uk/stvp-KRBC3200005SH
+#EXTINF:-1,MNet
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
 #EXTINF:-1,tvN Show
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=wR1QTGj0fFaQn3wBtsFhhWN7UA41PTwJyTbKntvU&secret=af9e9bbf95a8071899bdee00d178ffbf&time=1742502367
-#http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
+#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=wR1QTGj0fFaQn3wBtsFhhWN7UA41PTwJyTbKntvU&secret=af9e9bbf95a8071899bdee00d178ffbf&time=1742502367
 #EXTINF:-1,ENA
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_joy_540&sid=tLqu4O06OBUd42Bf6pQzEj5iFGeblET7JuLcQfc7&secret=9b1bada69fe289f71ac1e24e8376b857&time=1742501919
 #EXTINF:-1,MBC every1
@@ -141,6 +143,8 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tooniverse_540&sid=
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cartoon_network_540&sid=RyguKlLteLqv9rk0RS2MXuF7i1rMwPylYuihkE8h&secret=285476c7f0a52c71c066532526326dde&time=1742558094
 #EXTINF:-1,어린이TV
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=childrens_tv_540&sid=bacS5e2f2oSXK0Jq8h8erviPliIz00vJqZSDx7AV&secret=e37983794947e47b83649a92de60f3da&time=1742558216
+#EXTINF:-1,ANIPLUS
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
 #EXTINF:-1,CNN
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cnn_kr_540&sid=7ySL8aoIyy2NPbS1ENkvzkgj9C3GvJq2bdQ7PneQ&secret=0477f93d5d7e29a87ad3482bd1ecf100&time=1742558366
 #EXTINF:-1,BBC
