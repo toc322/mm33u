@@ -4,11 +4,11 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=oj1ssh7
 #http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
 #https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=8Neso11HboGsckMnkXhZO5OQooX8FjkJGh3JNyhN&secret=9968228025ba44af1c1ed3e5ef93498e&time=1745188012
 #EXTINF:-1,KBS1
-https://tv.iill.top/kbs/11&p=0
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
+#https://tv.iill.top/kbs/11&p=0
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
 #EXTINF:-1,KBS2
-https://tv.iill.top/kbs/12&p=0
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=nGwIH0XSiD8i6BgNlw1BzsZ9ZkNGavHRb7KWRaUB&secret=24378334b2628dc756899977221fbe37&time=1742499579
+#https://tv.iill.top/kbs/12&p=0
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=nGwIH0XSiD8i6BgNlw1BzsZ9ZkNGavHRb7KWRaUB&secret=24378334b2628dc756899977221fbe37&time=1742499579
 #EXTINF:-1,MBC
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_540&sid=OiF7QW8tv67KzSp46AumV3RRfFzaM23xbWGWK1EE&secret=52841b1a2fc1ea3572f35742831c2823&time=1746640316
