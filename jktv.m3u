@@ -4,16 +4,18 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=oj1ssh7
 #http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
 #https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=8Neso11HboGsckMnkXhZO5OQooX8FjkJGh3JNyhN&secret=9968228025ba44af1c1ed3e5ef93498e&time=1745188012
 #EXTINF:-1,KBS1
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
-#https://tv.iill.top/kbs/11&p=0
+https://tv.iill.top/kbs/11&p=0
+#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
 #EXTINF:-1,KBS2
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=nGwIH0XSiD8i6BgNlw1BzsZ9ZkNGavHRb7KWRaUB&secret=24378334b2628dc756899977221fbe37&time=1742499579
-#https://tv.iill.top/kbs/12&p=0
+https://tv.iill.top/kbs/12&p=0
+#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=nGwIH0XSiD8i6BgNlw1BzsZ9ZkNGavHRb7KWRaUB&secret=24378334b2628dc756899977221fbe37&time=1742499579
 #EXTINF:-1,MBC
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_540&sid=OiF7QW8tv67KzSp46AumV3RRfFzaM23xbWGWK1EE&secret=52841b1a2fc1ea3572f35742831c2823&time=1746640316
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_540&sid=OiF7QW8tv67KzSp46AumV3RRfFzaM23xbWGWK1EE&secret=52841b1a2fc1ea3572f35742831c2823&time=1746640316
 #http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1,SBS
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=pgl0MLCBpuhYsXqyNXvAxTpnwsO7Z0LIv6TjzgW7&secret=3890d3e89e3ba3c4fe9c7bf7e93b7db1&time=1746640387
+https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1271401970.m3u8
+#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=pgl0MLCBpuhYsXqyNXvAxTpnwsO7Z0LIv6TjzgW7&secret=3890d3e89e3ba3c4fe9c7bf7e93b7db1&time=1746640387
 #EXTINF:-1,EBS1
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=hYnLduDv8nt54u8V33fzOzX2965Hpw5riMGhlJ3R&secret=49acbb73b9d018958342b304a2c5c7f4&time=1742556411
 #EXTINF:-1,EBS2
@@ -21,11 +23,14 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=0wonn
 #EXTINF:-1,JTBC
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=ueRIPcU1CmpLxvesJU3p3VVgAfWDA7Gq6Ok1SwdS&secret=7e0fd7ca14ec47bd96aca368dade12a4&time=1742499897
 #EXTINF:-1,OCN
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
+https://krtv.site/kakotvlive/kakotvlive27/ocn.php
+#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
 #EXTINF:-1,OCN Movies
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=ITjFbSesTCA6lhGQOkb3FkEBcBDIkkRJMIxUQdCp&secret=5d308748415770c93f1f9f0c0ed6e8b6&time=1747425455
+https://krtv.site/kakotvlive/kakotvlive27/ocnmovies2.php
+#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=ITjFbSesTCA6lhGQOkb3FkEBcBDIkkRJMIxUQdCp&secret=5d308748415770c93f1f9f0c0ed6e8b6&time=1747425455
 #EXTINF:-1,OCN Movies2
-https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
+https://krtv.site/kakotvlive/kakotvlive27/ocnmovies.php
+#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
 #EXTINF:-1,CJ ENM Movie
 https://jmp2.uk/stvp-KRBC32000191N
 #https://pip-hlslive-sstv-xcdn.pip.cjenm.com/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8
