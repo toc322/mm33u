@@ -42,8 +42,6 @@ https://jmp2.uk/stvp-KRBC32000191N
 #EXTINF:-1,PLAYY
 https://jmp2.uk/stvp-KR12000017G
 #https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/e6a94d5d-e454-4065-96cb-5db3aeec3c41/1.m3u8
-##EXTINF:-1,더무비
-#https://stream.ogtv2.com/live/live1027.m3u8
 #EXTINF:-1,YTN
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt048&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=97ef7359-cc9f9a9d-e4b24aa2-1f3d7cf6&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
@@ -71,18 +69,11 @@ http://211.110.63.98/jtbcgolf1/_definst_/8C4A78EB4291B2BA8795B9AF907E8A9B28DBF95
 #https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=jtbc%EA%B3%A8%ED%94%84-sll&channel_id=newid_186&mpf=eec738cc-39af1962-156fbea7&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9df66c43-bafcde1a-7fa38277-19be2399&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #EXTINF:-1,JTBC GOLF&SPORTS
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
-##EXTINF:-1,SBS Golf2
-#http://tvlive.sbs.co.kr/sbsgolf2/sbsgolf22.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NTY1OTYwNzEsInBhdGgiOiIvc2JzZ29sZjIyLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiN2VlZWMyNjAtZDk0YS00NzI1LWE4ZjgtNmZkNmIxMWYyN2Q0IiwiaWF0IjoxNzU2NTg4ODcxfQ.MCLW98lL-t_g_nOAkK-4bHlE3l1G_o9jEQc0OEh3mhY
-#https://stream.ogtv2.com/live/live1024.m3u8
-#EXTINF:-1,SPOTV Golf&Health
-https://stream.ogtv2.com/live/live1025.m3u8
 #EXTINF:-1,PGA Tour
 https://jmp2.uk/stvp-KRBD3100007WB
 #http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
 #EXTINF:-1,스크린골프
 https://jmp2.uk/stvp-KR44000010Y
-##EXTINF:-1,CNBC golf
-#https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1,JTBC3
 https://krtv.site/kakotvlive/kakotvlive27/jtbc3.php
 #https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
