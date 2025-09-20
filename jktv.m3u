@@ -1,41 +1,41 @@
 #EXTM3U8
 #EXTINF:-1,tvN
-https://krtv.site/kakotvlive/kakotvlive27/tvn.php
+#https://krtv.site/kakotvlive/kakotvlive27/tvn.php
 #https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=oj1ssh7rr7bDqtSgQhIXTXPy1bKEQgYoGEtUDiL8&secret=214fb7e602c0dc5fbc45f46927cd140d&time=1748048055
-#http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
 #EXTINF:-1,KBS1
-https://krtv.site/kakotvlive/kakotvlive27/kbs1.php
-#https://tv.iill.top/kbs/11&p=0
+#https://krtv.site/kakotvlive/kakotvlive27/kbs1.php
+https://tv.iill.top/kbs/11&p=0
 #https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
 #EXTINF:-1,KBS2
-https://krtv.site/kakotvlive/kakotvlive27/kbs2.php
-#https://tv.iill.top/kbs/12&p=0
+#https://krtv.site/kakotvlive/kakotvlive27/kbs2.php
+https://tv.iill.top/kbs/12&p=0
 #https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=nGwIH0XSiD8i6BgNlw1BzsZ9ZkNGavHRb7KWRaUB&secret=24378334b2628dc756899977221fbe37&time=1742499579
 #EXTINF:-1,MBC
 https://krtv.site/kakotvlive/kakotvlive27/mbc.php
 #https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_540&sid=OiF7QW8tv67KzSp46AumV3RRfFzaM23xbWGWK1EE&secret=52841b1a2fc1ea3572f35742831c2823&time=1746640316
-#http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1,SBS
-https://krtv.site/kakotvlive/kakotvlive27/sbs.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=pgl0MLCBpuhYsXqyNXvAxTpnwsO7Z0LIv6TjzgW7&secret=3890d3e89e3ba3c4fe9c7bf7e93b7db1&time=1746640387
+#https://krtv.site/kakotvlive/kakotvlive27/sbs.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=pgl0MLCBpuhYsXqyNXvAxTpnwsO7Z0LIv6TjzgW7&secret=3890d3e89e3ba3c4fe9c7bf7e93b7db1&time=1746640387
 #EXTINF:-1,EBS1
-https://krtv.site/kakotvlive/kakotvlive27/ebs1.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=hYnLduDv8nt54u8V33fzOzX2965Hpw5riMGhlJ3R&secret=49acbb73b9d018958342b304a2c5c7f4&time=1742556411
+#https://krtv.site/kakotvlive/kakotvlive27/ebs1.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=hYnLduDv8nt54u8V33fzOzX2965Hpw5riMGhlJ3R&secret=49acbb73b9d018958342b304a2c5c7f4&time=1742556411
 #EXTINF:-1,EBS2
-https://krtv.site/kakotvlive/kakotvlive27/ebs2.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=0wonnSSHsGui3yCUVS2h68L4nXKpocbek6UATVNu&secret=b6c54f84829101b5d1159e0143a063e1&time=1742556563
+#https://krtv.site/kakotvlive/kakotvlive27/ebs2.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=0wonnSSHsGui3yCUVS2h68L4nXKpocbek6UATVNu&secret=b6c54f84829101b5d1159e0143a063e1&time=1742556563
 #EXTINF:-1,JTBC
-https://krtv.site/kakotvlive/kakotvlive27/jtbc.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=ueRIPcU1CmpLxvesJU3p3VVgAfWDA7Gq6Ok1SwdS&secret=7e0fd7ca14ec47bd96aca368dade12a4&time=1742499897
+#https://krtv.site/kakotvlive/kakotvlive27/jtbc.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=ueRIPcU1CmpLxvesJU3p3VVgAfWDA7Gq6Ok1SwdS&secret=7e0fd7ca14ec47bd96aca368dade12a4&time=1742499897
 #EXTINF:-1,OCN
-https://krtv.site/kakotvlive/kakotvlive27/ocn.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
+#https://krtv.site/kakotvlive/kakotvlive27/ocn.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
 #EXTINF:-1,OCN Movies
-https://krtv.site/kakotvlive/kakotvlive27/ocnmovies2.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=ITjFbSesTCA6lhGQOkb3FkEBcBDIkkRJMIxUQdCp&secret=5d308748415770c93f1f9f0c0ed6e8b6&time=1747425455
+#https://krtv.site/kakotvlive/kakotvlive27/ocnmovies2.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=ITjFbSesTCA6lhGQOkb3FkEBcBDIkkRJMIxUQdCp&secret=5d308748415770c93f1f9f0c0ed6e8b6&time=1747425455
 #EXTINF:-1,OCN Movies2
-https://krtv.site/kakotvlive/kakotvlive27/ocnmovies.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
+#https://krtv.site/kakotvlive/kakotvlive27/ocnmovies.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
 #EXTINF:-1,CJ ENM Movie
 https://jmp2.uk/stvp-KRBC32000191N
 #https://pip-hlslive-sstv-xcdn.pip.cjenm.com/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8
@@ -49,20 +49,20 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&chan
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=newsy_540&sid=DzpUFHjcsBWVT59UIekH9Ru1NlsNITdMENCIwOYj&secret=627df873aaaabccbbfacb5cf54826ff2&time=1742500601
 #https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
 #EXTINF:-1,tvN Sports
-https://krtv.site/kakotvlive/kakotvlive27/tvnsports.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=8LbyMvKsXavagjD6y1ZNlDZMivTbD8w8Ylaki0aF&secret=4f3264b31cd2376538d9af4207f9be85&time=1745187636
+#https://krtv.site/kakotvlive/kakotvlive27/tvnsports.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=8LbyMvKsXavagjD6y1ZNlDZMivTbD8w8Ylaki0aF&secret=4f3264b31cd2376538d9af4207f9be85&time=1745187636
 #EXTINF:-1,KBSNSPORTS
-https://krtv.site/kakotvlive/kakotvlive27/koreansports.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=2d4lU588IfghL2opd7HM63yE2wS8H52ARHw5HXRQ&secret=2352918e6d64f698127757fa594e1ff4&time=1742500742
+#https://krtv.site/kakotvlive/kakotvlive27/koreansports.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=2d4lU588IfghL2opd7HM63yE2wS8H52ARHw5HXRQ&secret=2352918e6d64f698127757fa594e1ff4&time=1742500742
 #EXTINF:-1,MBC SPORTS
-https://krtv.site/kakotvlive/kakotvlive27/mbcnsports.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_sports_540&sid=9bv6hEGMpr1RCdE1DpMiWx2PrX8a8kKE1GMt0dJ6&secret=acef719ee24b555d553a928126e2bbd1&time=1742500830
+#https://krtv.site/kakotvlive/kakotvlive27/mbcnsports.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_sports_540&sid=9bv6hEGMpr1RCdE1DpMiWx2PrX8a8kKE1GMt0dJ6&secret=acef719ee24b555d553a928126e2bbd1&time=1742500830
 #EXTINF:-1,SKY SPORTS
-https://krtv.site/kakotvlive/kakotvlive27/skysports.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=izUD3XjpFBIK6xFNQ1BcgBGH5Ldy0HVkyD5UoRSO&secret=63f2413d9711c04b1a825c8e733a5204&time=1756907428
+#https://krtv.site/kakotvlive/kakotvlive27/skysports.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=izUD3XjpFBIK6xFNQ1BcgBGH5Ldy0HVkyD5UoRSO&secret=63f2413d9711c04b1a825c8e733a5204&time=1756907428
 #EXTINF:-1,SBS SPORTS
-https://krtv.site/kakotvlive/kakotvlive27/sbssports.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=XMv6aPlBrU1o23QTwnURWnfHoRT7hOQ8nwH7wK9H&secret=849647c33502f9f8d1a1d67e20719008&time=1742501076
+#https://krtv.site/kakotvlive/kakotvlive27/sbssports.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=XMv6aPlBrU1o23QTwnURWnfHoRT7hOQ8nwH7wK9H&secret=849647c33502f9f8d1a1d67e20719008&time=1742501076
 #EXTINF:-1,SBS GOLF
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=8No4oKWpRJMbb9rsAuWQ75ACx37sUj3gRkeLupvY&secret=72464b0ac707bb73f4d46a2e1082e64f&time=1748029685
 #EXTINF:-1,JTBC GOLF
@@ -76,17 +76,17 @@ https://jmp2.uk/stvp-KRBD3100007WB
 #EXTINF:-1,스크린골프
 https://jmp2.uk/stvp-KR44000010Y
 #EXTINF:-1,JTBC3
-https://krtv.site/kakotvlive/kakotvlive27/jtbc3.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
+#https://krtv.site/kakotvlive/kakotvlive27/jtbc3.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
 #EXTINF:-1,SPOTV
-https://krtv.site/kakotvlive/kakotvlive27/spotv.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_540&sid=w9sTaDbkcNRJ1Op6LvowKsB9qiIwEXaLK6jQmc9a&secret=700a37478a2572879ff8a64e7e43faa9&time=1742501358
+#https://krtv.site/kakotvlive/kakotvlive27/spotv.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_540&sid=w9sTaDbkcNRJ1Op6LvowKsB9qiIwEXaLK6jQmc9a&secret=700a37478a2572879ff8a64e7e43faa9&time=1742501358
 #EXTINF:-1,SPOTV2
-https://krtv.site/kakotvlive/kakotvlive27/spotv2.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_2_540&sid=JCn330xSXpDUtieRguQzRx0q5D2azRNty2G69TqK&secret=a8bf52caed9a7411a14c3dbcaf4f70b4&time=1742501441
+#https://krtv.site/kakotvlive/kakotvlive27/spotv2.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_2_540&sid=JCn330xSXpDUtieRguQzRx0q5D2azRNty2G69TqK&secret=a8bf52caed9a7411a14c3dbcaf4f70b4&time=1742501441
 #EXTINF:-1,SPOTV Prime
-https://krtv.site/kakotvlive/kakotvlive27/spotvprime.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=V1R87ydx8jeZbnselXMKDBx9IPKMXNa5Zv7Iqv31&secret=79ee49d5533da8320bdd61ec92cd4ded&time=1742501589
+#https://krtv.site/kakotvlive/kakotvlive27/spotvprime.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=V1R87ydx8jeZbnselXMKDBx9IPKMXNa5Zv7Iqv31&secret=79ee49d5533da8320bdd61ec92cd4ded&time=1742501589
 #EXTINF:-1,SPOTV On
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=spotv_on_540&sid=khuvDUGA5oq5SVN9qUTdlNpFKsr85NI7poL0OHU7&secret=4b9ae05ec416ae0275d3cee4511e7f7b&time=1742501659
 #EXTINF:-1,BilliardsTV
@@ -101,14 +101,14 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=FHD
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
 #https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=wR1QTGj0fFaQn3wBtsFhhWN7UA41PTwJyTbKntvU&secret=af9e9bbf95a8071899bdee00d178ffbf&time=1742502367
 #EXTINF:-1,ENA
-https://krtv.site/kakotvlive/kakotvlive27/ena.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_joy_540&sid=tLqu4O06OBUd42Bf6pQzEj5iFGeblET7JuLcQfc7&secret=9b1bada69fe289f71ac1e24e8376b857&time=1742501919
+#https://krtv.site/kakotvlive/kakotvlive27/ena.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_joy_540&sid=tLqu4O06OBUd42Bf6pQzEj5iFGeblET7JuLcQfc7&secret=9b1bada69fe289f71ac1e24e8376b857&time=1742501919
 #EXTINF:-1,MBC every1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 #https://live2.mbcmpp.co.kr/etc2/_definst_/every1/chunklist_w1526537521.m3u8
 #EXTINF:-1,SBS Plus
-https://krtv.site/kakotvlive/kakotvlive27/sbsplus.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
+#https://krtv.site/kakotvlive/kakotvlive27/sbsplus.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
 #EXTINF:-1,Channel E
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
 #EXTINF:-1,tvN STORY
@@ -123,8 +123,8 @@ https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=kbs_drama_540&sid=q
 #EXTINF:-1,코메디TV
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=comedy_540&sid=VwrbOrArABoCGtqRD7p4O5o3TLyqonOhScABtAo7&secret=2fe9f41d49ae8ea23b419e850b69671d&time=1742501996
 #EXTINF:-1,MBC On
-https://krtv.site/kakotvlive/kakotvlive27/mbcon.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
+#https://krtv.site/kakotvlive/kakotvlive27/mbcon.php
+https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
 #EXTINF:-1,중화TV
 https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=chinesetv_540&sid=ZhoPSyCssGAH4bZqbgtiLGY2RRNtZkpxdNaqJ59Z&secret=d61b57728a4807c259df2dad974b8d5b&time=1742555489
 #EXTINF:-1,바둑TV
